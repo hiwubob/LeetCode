@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T279numSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Dp/T55canJump.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Dp/T5longestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Haikangweishi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T1012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T131fengehuiwenchuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T140dancifenge2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRULinkedHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU$CacheNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T17dianhuanhaoma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T216.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T22huohaoshengcheng.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T306leijiashu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T37jieshudu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T39zuhezonghe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T401erjinzhishoubiao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T40zuhezonghe2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T46quanpailie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T47quanpailie2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T51Nhuanghou.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T52Nhuanghou2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T784letterCasePermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T78ziji.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79dancisousuo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79fangfa2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T996.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Ali.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Graph1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/JingDong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Pin2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T174.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T324baidongpaixu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T395.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T76.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T980.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T19removeNthFromEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T206reverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T2addTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T328oddEvenList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T92reversBetween.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T101isSymmetric.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T102levelOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T144preOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T145postOrderTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T230kthSmallest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T572isSubtree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T94inOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/haah.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T496nextGreaterElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T503nextGreaterElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T739dailytemperatures.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LeetCode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/T279numSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>break;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LeetCode/Ali.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/T63.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/T76.java" />
+        <option value="$PROJECT_DIR$/src/test.kt" />
+        <option value="$PROJECT_DIR$/src/haah.java" />
+        <option value="$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T101isSymmetric.java" />
+        <option value="$PROJECT_DIR$/src/Dp/T55canJump.java" />
+        <option value="$PROJECT_DIR$/src/Dp/T5longestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/T279Medium.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/T279numSquares.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2040" />
+    <option name="y" value="-8" />
+    <option name="width" value="1451" />
+    <option name="height" value="872" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.T279numSquares">
+    <configuration name="T279numSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBFS.T279numSquares" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DBFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T51Nhuanghou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huisu.T51Nhuanghou" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Huisu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T52Nhuanghou2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huisu.T52Nhuanghou2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Huisu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="haah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="haah" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T279numSquares.numSquares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DBFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DBFS" />
+      <option name="MAIN_CLASS_NAME" value="DBFS.T279numSquares" />
+      <option name="METHOD_NAME" value="numSquares" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T279numSquares" />
+        <item itemvalue="JUnit.T279numSquares.numSquares" />
+        <item itemvalue="Application.T52Nhuanghou2" />
+        <item itemvalue="Application.T51Nhuanghou" />
+        <item itemvalue="Application.haah" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="" />
+      <created>1558098628648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558098628648</updated>
+      <workItem from="1558098632758" duration="957000" />
+      <workItem from="1558099648194" duration="2850000" />
+      <workItem from="1558143040579" duration="9698000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1558174830170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558174830170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="T279numSquares_numSquares - 2019.05.18 at 17h 53m 56s.xml">
+      <configuration name="T279numSquares.numSquares" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="T279numSquares_numSquares - 2019.05.18 at 17h 58m 55s.xml">
+      <configuration name="T279numSquares.numSquares" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="T279numSquares_numSquares - 2019.05.18 at 18h 00m 08s.xml">
+      <configuration name="T279numSquares.numSquares" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13505000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2040" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1726361" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3295129" />
+      <window_info id="设计器" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2705249" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3822342" />
+      <window_info anchor="right" x="0" y="0" width="312" height="672" id="文档" side_tool="true" weight="0.32997844" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295129" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295129" />
+      <window_info anchor="right" id="调色板" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/wupro/java/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Ali.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/T63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/JingDong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/T76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/haah.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/T51Nhuanghou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T101isSymmetric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/wupro/java/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="99" column="16" lean-forward="true" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dp/T55canJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dp/T5longestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T279numSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
