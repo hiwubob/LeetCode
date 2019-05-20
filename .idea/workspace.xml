@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T279numSquares.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Dp/T55canJump.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Dp/T5longestPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Haikangweishi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T1012.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T131fengehuiwenchuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T140dancifenge2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRUCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRULinkedHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU$CacheNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T17dianhuanhaoma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T216.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T22huohaoshengcheng.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T306leijiashu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T37jieshudu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T39zuhezonghe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T401erjinzhishoubiao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T40zuhezonghe2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T46quanpailie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T47quanpailie2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T51Nhuanghou.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T52Nhuanghou2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T784letterCasePermutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T78ziji.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79dancisousuo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79fangfa2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T996.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Trie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Ali.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Graph1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/JingDong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Pin2018.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T174.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T324baidongpaixu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T395.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T62.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T63.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T76.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T980.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T19removeNthFromEnd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T206reverseList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T2addTwoNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T328oddEvenList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T92reversBetween.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T101isSymmetric.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T102levelOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T144preOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T145postOrderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T230kthSmallest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T572isSubtree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T94inOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/haah.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T496nextGreaterElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T503nextGreaterElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/stack/T739dailytemperatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,14 +36,14 @@
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DBFS/T279numSquares.java">
+        <entry file="file://$PROJECT_DIR$/out/production/LeetCode/DBFS/T279numSquares.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#1802#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,8 +91,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2040" />
-    <option name="y" value="-8" />
+    <option name="x" value="323" />
+    <option name="y" value="131" />
     <option name="width" value="1451" />
     <option name="height" value="872" />
   </component>
@@ -174,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,11 +109,17 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +234,11 @@
       <updated>1558098628648</updated>
       <workItem from="1558098632758" duration="957000" />
       <workItem from="1558099648194" duration="2850000" />
-      <workItem from="1558143040579" duration="9698000" />
+      <workItem from="1558143040579" duration="10351000" />
+      <workItem from="1558175777744" duration="1101000" />
+      <workItem from="1558338109578" duration="56000" />
+      <workItem from="1558342196882" duration="26000" />
+      <workItem from="1558342280338" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -310,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558174830170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1558175099065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558175099065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -325,7 +269,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13505000" />
+    <option name="totallyTimeSpent" value="15399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,9 +281,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2040" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1726361" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12624751" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,7 +305,6 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.2705249" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.3822342" />
-      <window_info anchor="right" x="0" y="0" width="312" height="672" id="文档" side_tool="true" weight="0.32997844" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,6 +315,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.3295129" />
       <window_info anchor="right" id="调色板" order="9" />
+      <window_info anchor="right" x="0" y="0" width="312" height="672" id="文档" order="10" side_tool="true" weight="0.32997844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,16 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/haah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -481,10 +415,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DBFS/T279numSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="150">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/haah.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/LeetCode/DBFS/T279numSquares.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#1802#0" expanded="true" />
           </folding>
         </state>
       </provider>
