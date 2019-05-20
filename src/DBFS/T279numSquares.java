@@ -44,9 +44,9 @@ public class T279numSquares {
 
     private List<Integer> generateSquares(int n) {
         List<Integer> squares = new ArrayList<>();
-        int base = (int) Math.sqrt(n);
+        int base = (int) Math.sqrt(n);//平方根
         for (int i = 1; i <= base; i++) {
-            squares.add((int) Math.pow(i, 2));
+            squares.add((int) Math.pow(i, 2));//指数
         }
 
         return squares;
