@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/DBFS/T200numIslands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DBFS/T217ladderLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/T217ladderLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DBFS/T547findCircleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBFS/T130solve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/T130solve.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +40,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DBFS/T200numIslands.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="521">
               <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/T130solve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/T547findCircleNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -81,6 +110,9 @@
         <option value="$PROJECT_DIR$/src/DBFS/T279numSquares.java" />
         <option value="$PROJECT_DIR$/src/DBFS/T217ladderLength.java" />
         <option value="$PROJECT_DIR$/src/DBFS/T200numIslands.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/T130solve.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/T547findCircleNum.java" />
       </list>
     </option>
   </component>
@@ -155,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T217ladderLength">
+  <component name="RunManager" selected="Application.T547findCircleNum">
     <configuration name="T217ladderLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DBFS.T217ladderLength" />
       <module name="LeetCode" />
@@ -182,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T51Nhuanghou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huisu.T51Nhuanghou" />
+    <configuration name="T52Nhuanghou2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huisu.T52Nhuanghou2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -195,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T52Nhuanghou2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huisu.T52Nhuanghou2" />
+    <configuration name="T547findCircleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBFS.T547findCircleNum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Huisu.*" />
+          <option name="PATTERN" value="DBFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T547findCircleNum" />
         <item itemvalue="Application.T217ladderLength" />
         <item itemvalue="Application.T279numSquares" />
         <item itemvalue="JUnit.T279numSquares.numSquares" />
         <item itemvalue="Application.T52Nhuanghou2" />
-        <item itemvalue="Application.T51Nhuanghou" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +283,7 @@
       <workItem from="1558338109578" duration="56000" />
       <workItem from="1558342196882" duration="26000" />
       <workItem from="1558342280338" duration="58000" />
-      <workItem from="1558342372305" duration="5780000" />
+      <workItem from="1558342372305" duration="8853000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -281,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558344641928</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1558428954854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558428954854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -296,7 +335,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21179000" />
+    <option name="totallyTimeSpent" value="24252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +350,7 @@
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12724552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12724552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -331,7 +370,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2705249" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2696177" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.38128772" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,16 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/T217ladderLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DBFS/T279numSquares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -489,6 +518,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T217ladderLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T130solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T547findCircleNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
