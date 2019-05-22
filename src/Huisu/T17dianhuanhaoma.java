@@ -14,7 +14,6 @@ public class T17dianhuanhaoma {
 		return res;
 	}
 	private static void zuhe(String digits, int n, List<String> res) {
-		// TODO 自动生成的方法存根
 		if(n==digits.length()) {
 			res.add(sb.toString());
 			return;
