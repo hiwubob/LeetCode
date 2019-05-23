@@ -28,7 +28,6 @@ public class Mystack {
         int val = this.stackData.pop();
         if (val == this.getMin()) {
             this.stackMin.pop();
-
         }
         return val;
     }
