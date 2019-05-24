@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/StackandQueue/TwoStackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackandQueue/DogCatQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T17dianhuanhaoma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T17dianhuanhaoma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T46quanpailie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T46quanpailie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackandQueue/Mystack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackandQueue/Mystack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,14 +47,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StackandQueue/TwoStackQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="985">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="805">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding>
                 <element signature="e#288#289#0" expanded="true" />
                 <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StackandQueue/DogCatQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="88" column="9" lean-forward="true" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#2468#2469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +130,9 @@
         <option value="$PROJECT_DIR$/src/StackandQueue/Mystack.java" />
         <option value="$PROJECT_DIR$/src/StackandQueue/TwoStackQueueImpl.java" />
         <option value="$PROJECT_DIR$/src/StackandQueue/TwoStackQueue.java" />
+        <option value="$PROJECT_DIR$/src/StackandQueue/PetEnterQueueImpl.java" />
+        <option value="$PROJECT_DIR$/src/StackandQueue/PetEnterQueue.java" />
+        <option value="$PROJECT_DIR$/src/StackandQueue/DogCatQueue.java" />
       </list>
     </option>
   </component>
@@ -164,6 +189,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -289,7 +315,7 @@
       <workItem from="1558342372305" duration="10135000" />
       <workItem from="1558529546176" duration="276000" />
       <workItem from="1558529826358" duration="2072000" />
-      <workItem from="1558619978545" duration="1061000" />
+      <workItem from="1558619978545" duration="4585000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -361,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558620657669</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1558621060180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558621060180</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -376,7 +409,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28943000" />
+    <option name="totallyTimeSpent" value="32467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,13 +724,51 @@
     <entry file="file://$PROJECT_DIR$/src/StackandQueue/TwoStackQueueImpl.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackandQueue/PetEnterQueueImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackandQueue/PetEnterQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StackandQueue/TwoStackQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="985">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="805">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="e#288#289#0" expanded="true" />
             <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackandQueue/DogCatQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="88" column="9" lean-forward="true" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#2468#2469#0" expanded="true" />
           </folding>
         </state>
       </provider>
