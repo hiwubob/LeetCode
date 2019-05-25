@@ -3,6 +3,7 @@ package StackandQueue;
 import java.util.Stack;
 
 public class getNearLessNoRepeat {
+//    单调栈
     public int[][] getNearLessNoRepeat(int[] arr) {
         int[][] res = new int[arr.length][2];
         Stack<Integer> stack = new Stack<>();
