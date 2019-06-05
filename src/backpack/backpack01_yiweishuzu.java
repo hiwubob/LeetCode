@@ -12,7 +12,7 @@ public class backpack01_yiweishuzu {
         int[] v = {0, 3, 4, 5};//价格
         int max = 10;//最大载重
        //创建二维数组，实现所有情况：横向是背包载重，纵向是物品列表，将每次最优结果填充到数组中
-        int[][] maxValue = new int[w.length][max];
+
 
         int[] f = new int[max + 1];
         for (int i = 0; i < f.length; i++) {
