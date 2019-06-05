@@ -5,7 +5,9 @@ public class backpack01 {
      有N种物品和一个容量为V的背包，每种物品只能装1件。
      第i种物品的费用是v，价值是w。求解将哪些物品装入背包可使这些物品
      的费用总和不超过背包容量，且价值总和最大。*/
-    public void backpack01() {
+
+    public static void main(String[] args) {
+
         int[] w = {0, 3, 4, 5};//重量
         int[] v = {0, 3, 4, 5};//价格
         int max = 10;//最大载重
@@ -28,6 +30,13 @@ public class backpack01 {
                     }
                 }
             }
+        }
+
+        for (int n = 0; n < w.length; n++) {
+            for (int i = 0; i < max; i++) {
+                System.out.print(maxValue[n][i]+" ");
+            }
+            System.out.println();
         }
 
         System.out.println(maxValue[w.length-1][max-1]);

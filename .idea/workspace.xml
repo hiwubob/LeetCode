@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/backpack/backpack01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backpack/backpacktotal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/GetMaxWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/GetMaxWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T102levelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T102levelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/backpack01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,18 +43,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BST/postOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/T144preOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -63,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/T102levelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,11 +63,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backpack/backpack01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+            <state relative-caret-position="150">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backpack/backpacktotal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -111,16 +121,7 @@
         <entry file="file://$PROJECT_DIR$/src/Tree/T101isSymmetric.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BST/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -129,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/src/BST/inOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -186,7 +187,9 @@
         <option value="$PROJECT_DIR$/src/StackandQueue/MaxTree.java" />
         <option value="$PROJECT_DIR$/src/BST/postOrder.java" />
         <option value="$PROJECT_DIR$/src/Tree/T102levelOrder.java" />
+        <option value="$PROJECT_DIR$/src/backpack/backpacktotal.java" />
         <option value="$PROJECT_DIR$/src/backpack/backpack01.java" />
+        <option value="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" />
       </list>
     </option>
   </component>
@@ -257,14 +260,17 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="StackandQueue" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\onos项目\LeetCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\onos项目\LeetCode" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\onos项目\LeetCode" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="backpack" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="StackandQueue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetMaxWindow">
+  <component name="RunManager" selected="Application.backpack01">
     <configuration name="GetMaxWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackandQueue.GetMaxWindow" />
       <module name="LeetCode" />
@@ -299,19 +305,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Huisu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T217ladderLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DBFS.T217ladderLength" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DBFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,13 +338,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="backpack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backpack.backpack01" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.backpack01" />
         <item itemvalue="Application.GetMaxWindow" />
         <item itemvalue="Application.T17dianhuanhaoma" />
         <item itemvalue="Application.T46quanpailie" />
         <item itemvalue="Application.T547findCircleNum" />
-        <item itemvalue="Application.T217ladderLength" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +382,7 @@
       <workItem from="1558529546176" duration="276000" />
       <workItem from="1558529826358" duration="2072000" />
       <workItem from="1558619978545" duration="10808000" />
-      <workItem from="1559707361520" duration="7059000" />
+      <workItem from="1559707361520" duration="8085000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -518,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559716393902</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Default Changelist">
+      <created>1559732675979</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1559732675979</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -533,7 +546,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45749000" />
+    <option name="totallyTimeSpent" value="46775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,7 +561,7 @@
     <frame x="2040" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19197708" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19197708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,7 +571,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32791328" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32749325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -635,13 +648,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/wupro/java/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/Ali.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -955,14 +961,14 @@
     <entry file="file://$PROJECT_DIR$/src/Tree/T101isSymmetric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/T102levelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="20" column="54" lean-forward="true" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -972,14 +978,28 @@
     <entry file="file://$PROJECT_DIR$/src/BST/inOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backpack/backpacktotal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backpack/backpack01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        <state relative-caret-position="150">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
