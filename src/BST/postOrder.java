@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 import java.util.List;
 import java.util.Stack;
-
+//首先root入s1，s1弹出root入s2，把root的左右入栈s1，重复“弹出root入s2，把root的左右入栈s1”，最后输出s2pop
 public class postOrder {
 	public void postOrder1(TreeNode root) {
 		if (root != null) {
