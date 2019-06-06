@@ -2,6 +2,7 @@ package Sort;
 
 public class insertSort {
     public void insertSort(int[] a) {
+        //时间 n2 空间1 稳定
         for (int i = 1; i < a.length; i++) {
             for (int j = i - 1; j >= 0 && a[j] > a[j + 1]; j--) {
                 a[j + 1] = a[j + 1] + a[j];
@@ -22,8 +23,7 @@ public class insertSort {
         }
     }
 
-
-
+    
     public static void main(String[] args) {
         int[] a = {6, 4, 7, 3, 8, 3};
         insertSort s = new insertSort();

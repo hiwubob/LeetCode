@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu_zhaungman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sort/insertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/insertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backpack/backpacktotal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/backpacktotal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sort/insertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="540">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -369,7 +364,7 @@
       <workItem from="1558529546176" duration="276000" />
       <workItem from="1558529826358" duration="2072000" />
       <workItem from="1558619978545" duration="10808000" />
-      <workItem from="1559707361520" duration="12063000" />
+      <workItem from="1559707361520" duration="13420000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -525,7 +520,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559733633620</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Default Changelist">
+      <created>1559737727227</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1559737727227</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Default Changelist">
+      <created>1559738616730</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1559738616730</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -540,7 +549,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50753000" />
+    <option name="totallyTimeSpent" value="52110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,7 +585,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.2696177" />
-      <window_info active="true" anchor="bottom" id="调试" order="13" visible="true" weight="0.38531187" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.38531187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -636,36 +645,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sort/insertSort.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sort/insertSort.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sort/insertSort.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sort/insertSort.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1025,8 +1004,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/insertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="540">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>
