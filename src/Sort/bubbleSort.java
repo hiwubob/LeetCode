@@ -33,7 +33,7 @@ public class bubbleSort {
 	}
 
 	private void swap(int[] a, int j, int i) {
-		// TODO 自动生成的方法存根
+
 		a[i] = a[i] + a[j];
 		a[j] = a[i] - a[j];
 		a[i] = a[i] - a[j];

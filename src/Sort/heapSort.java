@@ -1,65 +1,44 @@
 package Sort;
 
 public class heapSort {
-//    Ê±¼änlogn£¬¿Õ¼ä1£¬inplace£¬²»ÎÈ¶¨
-    public void heapSort(int[] a) {
-        for (int i = 0; i < a.length; i++) {
-            creatMaxHeap(a, a.length - 1 - i);//¹¹½¨0-length-1-iµÄ×î´ó¶Ñ
-            swap(a, 0, a.length - 1 - i);//µ÷Õû¶Ñ¶¥ºÍ×îºóÒ»¸ö£¨length-1-i)µÄÖµ£¬±£Ö¤×îºóÊÇ×î´ó
-        }
+	public void heapSort(int[] a) {
+		for (int i = 0; i < a.length; i++) {
+			creatMaxHeap(a, a.length - 1 - i);
+			swap(a, 0, a.length - 1 - i);
+		}
 
-    }
+	}
 
-    private void swap(int[] a, int i, int j) {
-        if (i == j)
-            return;
-        a[i] = a[i] + a[j];
-        a[j] = a[i] - a[j];
-        a[i] = a[i] - a[j];
+	private void swap(int[] a, int i, int j) {
+		if (i == j)
+			return;
+		a[i] = a[i] + a[j];
+		a[j] = a[i] - a[j];
+		a[i] = a[i] - a[j];
 
-    }
+	}
 
-    private void creatMaxHeap(int[] a, int last) {
+	private void creatMaxHeap(int[] a, int last) {
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		for (int i = (last - 1) / 2; i >= 0; i--) {
+			int k = i;
 
-        //´Ó×îºóÒ»¸ö½ÚµãµÄ¸¸½Úµã¿ªÊ¼
-        for (int i = (last - 1) / 2; i >= 0; i--) {
-//			±£´æµ±Ç°ÕýÔÚÅÐ¶ÏµÄ½Úµã
-            int k = i;
+			while (2 * k + 1 <= last) {
+				int bigger = 2 * k + 1;
+				if (bigger + 1 <= last) {
+					if (a[bigger] < a[bigger + 1]) {
+						bigger++;
+					}
+				}
+				if (a[k] < a[bigger]) {
+					swap(a, k, bigger);
+					k = bigger;
+				} else {
+					break;
+				}
+			}
 
-//			Èç¹ûµ±Ç°k½ÚµãµÄ×Ó½Úµã´æÔÚ
-            while (2 * k + 1 <= last) {
-//				bigger¼ÇÂ¼½Ï´ó½ÚµãµÄÖµ£¬ÏÈ¸³ÖµÎªµ±Ç°½Úµã×ó½ÚµãµÄË÷Òý
-                int bigger = 2 * k + 1;
-//				Èç¹ûµ±Ç°½ÚµãÓÒ×Ó½Úµã´æÔÚ
-                if (bigger + 1 <= last) {
-                    if (a[bigger] < a[bigger + 1]) {
-//						ÈôÓÒ×Ó½ÚµãÖµ±È×ó×Ó½ÚµãµÄÖµ´ó£¬Ôòbigger¼ÇÂ¼ÓÒ×Ó½ÚµãµÄÖµ
-                        bigger++;
-                    }
-                }
-//				Èç¹ûk½ÚµãµÄÖµÐ¡ÓÚÆä½Ï´ó×Ó½ÚµãµÄÖµ
-                if (a[k] < a[bigger]) {
-//					½»»»Á½ÕßµÄÖµ
-                    swap(a, k, bigger);
-//					½«bigger¸³Óèk£¬whileÑ­»·ÏÂÒ»´Î£¬ÖØÐÂ±£Ö¤k½ÚµãµÄÖµ´óÓÚÆä×óÓÒ×Ó½ÚµãµÄÖµ
-                    k = bigger;
-                } else {
-                    break;
-                }
-            }
+		}
 
-        }
-
-    }
-
-    public static void main(String[] args) {
-        heapSort h = new heapSort();
-        int[] a = {6, 5, 4, 3, 2, 1, 0};
-        h.heapSort(a);
-        for (int b :
-                a) {
-            System.out.print(b);
-        }
-
-    }
+	}
 }
