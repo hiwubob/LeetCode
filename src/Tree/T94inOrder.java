@@ -24,4 +24,12 @@ public class T94inOrder {
 		}
 		return resList;
 	}
+	public void inOrder2(TreeNode root) {
+
+		if (root != null) {
+			inOrder2(root.left);
+			inOrder2(root.right);
+			System.out.println(root.val);
+		}
+	}
 }

@@ -20,7 +20,6 @@ public class T145postOrderTraversal {
 				if (root.right != null) {
 					s1.push(root.right);
 				}
-
 			}
 			while (!s2.isEmpty()) {
 				resList.add(s2.pop().val);//s2依次弹出
