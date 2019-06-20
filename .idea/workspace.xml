@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotation/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotation/FruitInfoUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotation/FruitProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Annotation/FruitRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No1ErWeiShuZuDeChaZhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No2TiHuanKongGe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No3CongWeiDaoTouDaYinLianBiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No4ChongJianErChaShu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/JingDongObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ProductList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/TaoBaoObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/PersonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/Transation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Proxy/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Annotation/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Tree2LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T145postOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T145postOrderTraversal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T94inOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Tree/T94inOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/heapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/heapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/mergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/quickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/selectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/selectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/shellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/shellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T145postOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T145postOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T94inOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T94inOrder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -199,6 +168,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -447,7 +419,7 @@
       <workItem from="1559707361520" duration="13420000" />
       <workItem from="1559782965300" duration="927000" />
       <workItem from="1559783987160" duration="26210000" />
-      <workItem from="1560434916572" duration="16732000" />
+      <workItem from="1560434916572" duration="16988000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -624,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559783149960</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Default Changelist">
+      <created>1561028617220</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1561028617220</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -639,7 +618,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95979000" />
+    <option name="totallyTimeSpent" value="96235000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
