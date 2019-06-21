@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No12shuzhidezhengshucifang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No14LianbiaozhongdediKgejiedian.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,27 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No2TiHuanKongGe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No3CongWeiDaoTouDaYinLianBiao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding>
-                <element signature="e#739#748#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No4ChongJianErChaShu.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,11 +103,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No12shuzhidezhengshucifang.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No13Tiaozhengjiou.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No14LianbiaozhongdediKgejiedian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -160,9 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort/heapSort.java" />
-        <option value="$PROJECT_DIR$/src/Sort/selectSort.java" />
-        <option value="$PROJECT_DIR$/src/Sort/mergeSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/quickSort.java" />
         <option value="$PROJECT_DIR$/src/Tree/T94inOrder.java" />
         <option value="$PROJECT_DIR$/src/Sort/shellSort.java" />
@@ -211,6 +205,9 @@
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No10juxingfugai.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No11Erjinzhizhongde1degeshu.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No12shuzhidezhengshucifang.java" />
+        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No13Tiaozhengjiou.java" />
+        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No14.java" />
+        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No14LianbiaozhongdediKgejiedian.java" />
       </list>
     </option>
   </component>
@@ -623,7 +620,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561118415924</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Default Changelist">
+      <created>1561118672611</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1561118672611</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Default Changelist">
+      <created>1561118825502</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1561118825502</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -638,7 +649,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97175000" />
+    <option name="totallyTimeSpent" value="97601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,7 +664,7 @@
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798793" visible="true" weight="0.26447105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798793" visible="true" weight="0.26447105" />
       <window_info id="Structure" order="1" sideWeight="0.5020121" side_tool="true" weight="0.11327346" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -770,14 +781,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Annotation/FruitInfoUntil.java" />
-    <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/T101isSymmetric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1131,6 +1134,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No13Tiaozhengjiou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No14LianbiaozhongdediKgejiedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
