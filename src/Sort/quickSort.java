@@ -8,8 +8,8 @@ public class quickSort {
 	private void quickSort(int[] a, int low, int high) {
 		if (low < high) {
 			int middle = getMiddle(a, low, high);
-			quickSort(a, 0, middle + 1);//�ݹ�Ե��ӱ�ݹ�����
-			quickSort(a, middle + 1, high);//�ݹ�Ը��ֱ�ݹ�����
+			quickSort(a, 0, middle - 1);
+			quickSort(a, middle + 1, high);
 		}
 
 	}
