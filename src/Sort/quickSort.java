@@ -16,14 +16,13 @@ public class quickSort {
 
 	private int getMiddle(int[] a, int low, int high) {
 		int key = a[low];
-		while (a[low] < a[high]) {
+		while (low < high) {
 			while (low < high && a[high] >= key) {
 				high--;
 			}
 			a[low] = a[high];
 			while (low < high && a[low] < key) {
 				low++;
-
 			}
 			a[high] = a[low];
 		}
