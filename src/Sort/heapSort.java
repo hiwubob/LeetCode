@@ -19,7 +19,6 @@ public class heapSort {
 	}
 
 	private void creatMaxHeap(int[] a, int last) {
-		// TODO �Զ����ɵķ������
 		for (int i = (last - 1) / 2; i >= 0; i--) {
 			int k = i;
 
