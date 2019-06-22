@@ -28,8 +28,8 @@ public class T94inOrder {
 
 		if (root != null) {
 			inOrder2(root.left);
-			inOrder2(root.right);
 			System.out.println(root.val);
+			inOrder2(root.right);
 		}
 	}
 }
