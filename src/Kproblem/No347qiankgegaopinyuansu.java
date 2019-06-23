@@ -4,6 +4,7 @@ import java.util.*;
 
 public class No347qiankgegaopinyuansu {
     //    给定一个非空的整数数组，返回其中出现频率前 k 高的元素。
+    //桶排序
     public List<Integer> topKFrequent(int[] nums, int k) {
         List<Integer> res = new ArrayList<>();
         if (nums == null || nums.length == 0) {
