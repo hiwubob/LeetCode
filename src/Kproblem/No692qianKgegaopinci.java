@@ -3,6 +3,7 @@ package Kproblem;
 import java.util.*;
 
 public class No692qianKgegaopinci {
+    //¶ÑÅÅÐò
     public List<String> topKFrequent(String[] words, int k) {
         List<String> res = new ArrayList<>();
         if (words == null || words.length == 0) {
@@ -38,6 +39,33 @@ public class No692qianKgegaopinci {
                     res.add(item);
                 }
             }
+        }
+        return res;
+    }
+
+    public List<String> topKFrequent2(String[] words, int k) {
+        //´ó¸ù¶Ñ
+        HashMap<String, Integer> map = new HashMap<>();
+        for (String i :
+                words) {
+            map.put(i,map.getOrDefault(i,0)+1);
+        }
+        PriorityQueue<String> pq=new PriorityQueue(new Comparator<String>() {
+            @Override
+            public int compare(String  a, String  b) {
+                if (map.get(a)==map.get(b)){
+                    return a.compareTo(b);
+                }
+                return map.get(b)-map.get(a);
+            }
+        });
+        for (String s :
+                map.keySet()) {
+            pq.add(s);
+        }
+        List<String> res=new ArrayList<>();
+        for (int i = 0; i < k; i++) {
+            res.add(pq.poll());
         }
         return res;
     }
