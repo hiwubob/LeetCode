@@ -1,6 +1,7 @@
 package ListNode;
 
 public class T2addTwoNumbers {
+//	两数相加 Meidum
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		if (l1 == null || l2 == null) {
 			return l1 == null ? l2 : l1;
