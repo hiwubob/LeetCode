@@ -7,7 +7,7 @@ public class T2addTwoNumbers {
 			return l1 == null ? l2 : l1;
 		}
 		int carry = 0;
-		ListNode resNode = new ListNode(-1);
+		ListNode resNode = new ListNode(-1);//Ìí¼ÓÑÆ½áµã
 		ListNode head = resNode;
 		while (l1 != null || l2 != null) {
 			int sum = carry;
