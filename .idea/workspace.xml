@@ -2,96 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="0">
-      <change afterPath="$PROJECT_DIR$/src/Dp/No115butongdezixulie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dp/No72bianjijuli.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T130solve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T200numIslands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T217ladderLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T279numSquares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T547findCircleNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DBFS/T695maxAreaOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dp/T55canJump.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Dp/T5longestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Haikangweishi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T1012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T131fengehuiwenchuan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T131partition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T140dancifenge2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU$LRULinkedHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146LRU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU$CacheNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T146_v2LRU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T17dianhuanhaoma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T216.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T22huohaoshengcheng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T306leijiashu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T37jieshudu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T39zuhezonghe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T401erjinzhishoubiao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T40zuhezonghe2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T46quanpailie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T47quanpailie2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T51Nhuanghou.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T52Nhuanghou2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T77zuhe2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T784letterCasePermutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T78ziji.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79dancisousuo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T79fangfa2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/T996.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Huisu/WordDictionary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Ali.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Graph1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/JingDong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Maze2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/Pin2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T174.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T179zuidashu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T324baidongpaixu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T395.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T62.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T63.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T76.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/T980.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TainJiSaiMa2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode/TopKFrequent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T19removeNthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T206reverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T2addTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T328oddEvenList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode/T92reversBetween.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/DogCatQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/GetMaxWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/Mystack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/PetEnterQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/TwoStackQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/StackandQueue/sortStackByStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T101isSymmetric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T102levelOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T144preOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T145postOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T230kthSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T572isSubtree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/T94inOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/stack/T496nextGreaterElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/stack/T503nextGreaterElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/stack/T739dailytemperatures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dp/T55canJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dp/T55canJump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode/T19removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode/T19removeNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListNode/T2addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode/T2addTwoNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,18 +42,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/No3wuchongfuzifuzuichagnzichuan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ListNode/T19removeNthFromEnd.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -163,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/Dp/T55canJump.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -172,16 +72,25 @@
         <entry file="file://$PROJECT_DIR$/src/Dp/T5longestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dp/No115butongdezixulie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No115butongdezixulie.java">
+        <entry file="file://$PROJECT_DIR$/src/Dp/No72bianjijuli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="389">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -256,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Proxy/PersonService.java" />
         <option value="$PROJECT_DIR$/src/Proxy/PersonServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/Proxy/PersonServiceProxy.java" />
         <option value="$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor.java" />
@@ -307,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/ListNode/T19removeNthFromEnd.java" />
         <option value="$PROJECT_DIR$/src/Dp/T55canJump.java" />
         <option value="$PROJECT_DIR$/src/Dp/No115butongdezixulie.java" />
+        <option value="$PROJECT_DIR$/src/Dp/No72bianjijuli.java" />
       </list>
     </option>
   </component>
@@ -316,9 +225,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="311" />
-    <option name="y" value="193" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2040" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -511,7 +420,7 @@
       <workItem from="1561711596887" duration="873000" />
       <workItem from="1561721232052" duration="608000" />
       <workItem from="1561789548750" duration="613000" />
-      <workItem from="1561948977551" duration="2969000" />
+      <workItem from="1561948977551" duration="4201000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -835,7 +744,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561469615740</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="0">
+      <created>1561985557793</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1561985557793</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -850,7 +766,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118359000" />
+    <option name="totallyTimeSpent" value="119591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -862,7 +778,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="311" y="193" width="1456" height="876" extended-state="0" />
+    <frame x="2040" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798793" visible="true" weight="0.19054441" />
@@ -875,7 +791,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26145554" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26145554" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -983,13 +899,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No8Tiaotaijie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No9Biantaitiaotaijie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1322,21 +1231,28 @@
     <entry file="file://$PROJECT_DIR$/src/Dp/T55canJump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dp/T5longestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dp/No115butongdezixulie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="390">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dp/No72bianjijuli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
