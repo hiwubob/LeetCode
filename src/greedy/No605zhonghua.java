@@ -10,7 +10,7 @@ public class No605zhonghua {
             }
             int pre = i == 0 ? 0 : flowerbed[i - 1];
             int next = i == len - 1 ? 0 : flowerbed[i + 1];
-            if (pre == 0 || next == 0) {
+            if (pre == 0 && next == 0) {
                 flowerbed[i] = 1;
                 count++;
             }
