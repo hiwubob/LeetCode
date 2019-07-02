@@ -6,7 +6,7 @@ public class No53zuidazixuhe {
             return 0;
         }
         int preMaxSum=0;
-        int maxSum=Integer.MAX_VALUE;
+        int maxSum=Integer.MIN_VALUE;
         for (int num :
                 nums) {
             preMaxSum = Math.max(num, preMaxSum + num);

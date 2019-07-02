@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="0">
-      <change afterPath="$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/T121maimaigupiao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,15 +42,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No221zuidazhengfangxing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dp/No279wanquanpingfangshu.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,24 +111,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+            <state relative-caret-position="240">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/greedy/T121maimaigupiao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -168,8 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Proxy/testJdkProxy.java" />
-        <option value="$PROJECT_DIR$/src/Proxy/ProxyTest.java" />
         <option value="$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor2.java" />
         <option value="$PROJECT_DIR$/src/Observer/ProductList.java" />
         <option value="$PROJECT_DIR$/src/Observer/JingDongObserver.java" />
@@ -219,6 +214,8 @@
         <option value="$PROJECT_DIR$/src/DBFS/T130solve.java" />
         <option value="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" />
         <option value="$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java" />
+        <option value="$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java" />
+        <option value="$PROJECT_DIR$/src/greedy/T121maimaigupiao.java" />
       </list>
     </option>
   </component>
@@ -256,19 +253,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DBFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ListNode" type="462c0819:PsiDirectoryNode" />
+              <item name="greedy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,21 +415,7 @@
       <workItem from="1561721232052" duration="608000" />
       <workItem from="1561789548750" duration="613000" />
       <workItem from="1561948977551" duration="4727000" />
-      <workItem from="1562034201442" duration="10690000" />
-    </task>
-    <task id="LOCAL-00003" summary="Default Changelist">
-      <created>1558342402109</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1558342402109</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Default Changelist">
-      <created>1558344641928</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1558344641928</updated>
+      <workItem from="1562034201442" duration="11436000" />
     </task>
     <task id="LOCAL-00005" summary="Default Changelist">
       <created>1558428954854</created>
@@ -775,7 +746,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562058489125</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="0">
+      <created>1562067146132</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1562067146132</updated>
+    </task>
+    <task id="LOCAL-00053" summary="0">
+      <created>1562067418306</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1562067418306</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -790,7 +775,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130807000" />
+    <option name="totallyTimeSpent" value="131553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -923,20 +908,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sort/insertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/mergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/quickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1281,8 +1252,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+        <state relative-caret-position="240">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/T121maimaigupiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
