@@ -27,5 +27,4 @@ public class No46quanpailie {
             leverList.remove(leverList.size() - 1);
         }
     }
-
 }
