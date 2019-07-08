@@ -9,7 +9,7 @@ public class No72bianjijuli {
         }
         int[][] d = new int[n + 1][m + 1];
         for (int i = 0; i < n + 1; i++) {
-            d[i + 1][0]=i;
+            d[i][0]=i;
         }
         for (int j = 0; j < m + 1; j++) {
             d[0][j]=j;
