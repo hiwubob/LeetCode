@@ -1,4 +1,4 @@
-package Huisu;
+package »ØËİ;
 
 public class T1012 {
 	boolean[] isUsed = new boolean[10];

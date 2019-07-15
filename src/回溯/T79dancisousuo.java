@@ -1,4 +1,4 @@
-package Huisu;
+package 回溯;
 
 public class T79dancisousuo {
 	public boolean exist(char[][] board, String word) {

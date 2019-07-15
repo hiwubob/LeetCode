@@ -1,4 +1,4 @@
-package Huisu;
+package »ØËİ;
 
 class Trie {
 

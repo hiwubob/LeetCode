@@ -1,7 +1,4 @@
-package Huisu;
-
-import java.util.ArrayList;
-import java.util.List;
+package 回溯;
 
 public class T306leijiashu {
 

@@ -1,4 +1,4 @@
-package Huisu;
+package »ØËİ;
 
 public class T79fangfa2 {
 	int m, n;
