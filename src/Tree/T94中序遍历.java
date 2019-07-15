@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class T94inOrder {
+public class T94中序遍历 {
 //非递归
 	public List<Integer> inOrderTraversal(TreeNode root){
 		List<Integer> resList=new ArrayList<>();

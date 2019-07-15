@@ -1,4 +1,4 @@
-package beibao;
+package 背包;
 
 public class 多重背包2 {
 

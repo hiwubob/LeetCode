@@ -1,4 +1,4 @@
-package beibao;
+package 背包;
 
 public class 零一背包优化 {
     /**

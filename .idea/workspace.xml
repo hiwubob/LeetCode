@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="0">
-      <change afterPath="$PROJECT_DIR$/src/beibao/完全背包.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beibao/完全背包2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBFS/No127dancijielong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/No127单词接龙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/No17电话号码.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DBFS/No46全排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huisu/T17dianhuanhaoma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huisu/T17电话号码.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huisu/T51Nhuanghou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huisu/T51N皇后.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huisu/T52N皇后2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/多重背包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/多重背包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/多重背包2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/多重背包2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/完全背包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/完全背包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/完全背包2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/完全背包2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/零一背包.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/零一背包.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beibao/零一背包优化.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/背包/零一背包优化.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,96 +53,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/greedy/No452yongzuishaoshuliangdejianyinbaoqiqiu.java">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/T200numIslands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="510">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Huisu/T51N皇后.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Huisu/T52N皇后2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No64zuixiaolujinghe.java">
+        <entry file="file://$PROJECT_DIR$/src/Huisu/Haikangweishi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No63butonglujng2.java">
+        <entry file="file://$PROJECT_DIR$/src/Huisu/T17电话号码.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No72bianjijuli.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No84zuidajuxing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beibao/零一背包.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beibao/零一背包优化.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="540">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beibao/多重背包.java">
+        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="510">
+              <caret line="800" lean-forward="true" selection-start-line="800" selection-end-line="800" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DBFS/No17电话号码.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/背包/多重背包.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
               <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beibao/完全背包.java">
+        <entry file="file://$PROJECT_DIR$/src/背包/多重背包2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="420">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beibao/完全背包2.java">
+        <entry file="file://$PROJECT_DIR$/src/Huisu/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -153,6 +161,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>break;</find>
+      <find>basecount</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,10 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JIANZHIOffer/chongjianerchashu4.java" />
-        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No4chongjianerchashu.java" />
-        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No7Feibonaqieshulie.java" />
-        <option value="$PROJECT_DIR$/src/JIANZHIOffer/No8Tiaotaijie.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No9Biantaitiaotaijie.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No10juxingfugai.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No11Erjinzhizhongde1degeshu.java" />
@@ -195,10 +200,7 @@
         <option value="$PROJECT_DIR$/src/Dp/No115butongdezixulie.java" />
         <option value="$PROJECT_DIR$/src/Dp/No221zuidazhengfangxing.java" />
         <option value="$PROJECT_DIR$/src/Dp/No279wanquanpingfangshu.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/No127dancijielong.java" />
         <option value="$PROJECT_DIR$/src/DBFS/T130solve.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java" />
         <option value="$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java" />
         <option value="$PROJECT_DIR$/src/greedy/T121maimaigupiao.java" />
         <option value="$PROJECT_DIR$/src/greedy/No122maimaigupiao2.java" />
@@ -215,6 +217,13 @@
         <option value="$PROJECT_DIR$/src/beibao/多重背包.java" />
         <option value="$PROJECT_DIR$/src/beibao/完全背包.java" />
         <option value="$PROJECT_DIR$/src/beibao/完全背包2.java" />
+        <option value="$PROJECT_DIR$/src/beibao/多重背包2.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/No46quanpailie.java" />
+        <option value="$PROJECT_DIR$/src/DBFS/No127dancijielong.java" />
+        <option value="$PROJECT_DIR$/src/Huisu/T51Nhuanghou.java" />
+        <option value="$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java" />
+        <option value="$PROJECT_DIR$/src/Huisu/T17dianhuanhaoma.java" />
       </list>
     </option>
   </component>
@@ -225,8 +234,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2040" />
-    <option name="y" value="239" />
+    <option name="x" value="-16" />
+    <option name="y" value="93" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -236,7 +245,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,13 +262,19 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="beibao" type="462c0819:PsiDirectoryNode" />
+              <item name="Dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Huisu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,14 +430,10 @@
       <workItem from="1561789548750" duration="613000" />
       <workItem from="1561948977551" duration="4727000" />
       <workItem from="1562034201442" duration="15884000" />
-      <workItem from="1562566423955" duration="3707000" />
-    </task>
-    <task id="LOCAL-00013" summary="Default Changelist">
-      <created>1558679146224</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1558679146224</updated>
+      <workItem from="1562566423955" duration="7969000" />
+      <workItem from="1562766694575" duration="102000" />
+      <workItem from="1562766894277" duration="7664000" />
+      <workItem from="1563156784856" duration="243000" />
     </task>
     <task id="LOCAL-00014" summary="Default Changelist">
       <created>1558679224860</created>
@@ -760,7 +771,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562568979340</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="0">
+      <created>1562570299265</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1562570299265</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -775,7 +793,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139708000" />
+    <option name="totallyTimeSpent" value="151979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -787,10 +805,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2040" y="239" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798793" visible="true" weight="0.17979942" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798793" visible="true" weight="0.12974052" />
       <window_info id="Structure" order="1" sideWeight="0.5020121" side_tool="true" weight="0.11327346" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -913,47 +931,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack/T503nextGreaterElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/T739dailytemperatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Observer/JingDongObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1073,23 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Huisu/T52Nhuanghou2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Huisu/T51Nhuanghou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1118,27 +1078,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/No127dancijielong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/T200numIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/T130solve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1150,23 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/No46quanpailie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DBFS/No17dianhuahaoma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1257,38 +1179,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibao/完全背包.java">
+    <entry file="file://$PROJECT_DIR$/src/背包/完全背包.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-331">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibao/完全背包2.java">
+    <entry file="file://$PROJECT_DIR$/src/背包/完全背包2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibao/零一背包.java">
+    <entry file="file://$PROJECT_DIR$/src/背包/零一背包.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-331">
           <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibao/零一背包优化.java">
+    <entry file="file://$PROJECT_DIR$/src/背包/零一背包优化.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibao/多重背包.java">
+    <entry file="file://$PROJECT_DIR$/src/DBFS/No46全排列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/No127单词接龙.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T130solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/T200numIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/T51N皇后.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/T52N皇后2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/Haikangweishi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/T17电话号码.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBFS/No17电话号码.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/背包/多重背包.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
           <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/背包/多重背包2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huisu/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="800" lean-forward="true" selection-start-line="800" selection-end-line="800" />
         </state>
       </provider>
     </entry>

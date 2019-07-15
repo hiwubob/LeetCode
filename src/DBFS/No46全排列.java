@@ -3,7 +3,7 @@ package DBFS;
 import java.util.ArrayList;
 import java.util.List;
 
-public class No46quanpailie {
+public class No46È«ÅÅÁĞ {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if (nums == null || nums.length == 0) {

@@ -1,22 +1,15 @@
-package beibao;
+package 背包;
 
-public class 完全背包 {
+public class 零一背包 {
     /**
-     * 第二类背包：完全背包
-     * 思路分析：
-     * 01背包问题是在前一个子问题（i-1种物品）的基础上来解决当前问题（i种物品），
-     * 向i-1种物品时的背包添加第i种物品；而完全背包问题是在解决当前问题（i种物品）
-     * 向i种物品时的背包添加第i种物品。
-     * 推公式计算时，f[i][y] = max{f[i-1][y], (f[i][y-weight[i]]+value[i])}，
-     * 注意这里当考虑放入一个物品 i 时应当考虑还可能继续放入 i，
-     * 因此这里是f[i][y-weight[i]]+value[i], 而不是f[i-1][y-weight[i]]+value[i]。
-     * @param V
-     * @param N
-     * @param weight
-     * @param value
+     * 0-1背包问题
+     * @param V 背包容量
+     * @param N 物品种类
+     * @param weight 物品重量
+     * @param value 物品价值
      * @return
      */
-    public static String completePack(int V,int N,int[] weight,int[] value){
+    public static String ZeroOnePack(int V,int N,int[] weight,int[] value){
         //初始化动态规划数组
         int[][] dp = new int[N+1][V+1];
         //为了便于理解,将dp[i][0]和dp[0][j]均置为0，从1开始计算
@@ -27,16 +20,17 @@ public class 完全背包 {
                 if(weight[i-1] > j)
                     dp[i][j] = dp[i-1][j];
                 else
-                    dp[i][j] = Math.max(dp[i-1][j],dp[i][j-weight[i-1]]+value[i-1]);
+                    dp[i][j] = Math.max(dp[i-1][j],dp[i-1][j-weight[i-1]]+value[i-1]);
             }
         }
         //则容量为V的背包能够装入物品的最大值为
         int maxValue = dp[N][V];
+        //逆推找出装入背包的所有商品的编号
         int j=V;
         String numStr="";
         for(int i=N;i>0;i--){
             //若果dp[i][j]>dp[i-1][j],这说明第i件物品是放入背包的
-            while(dp[i][j]>dp[i-1][j]){
+            if(dp[i][j]>dp[i-1][j]){
                 numStr = i+" "+numStr;
                 j=j-weight[i-1];
             }

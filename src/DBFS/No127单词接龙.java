@@ -2,7 +2,7 @@ package DBFS;
 
 import java.util.*;
 
-public class No127dancijielong {
+public class No127µ¥´Ê½ÓÁú {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         if (wordList == null || !wordList.contains(endWord)) {
             return 0;

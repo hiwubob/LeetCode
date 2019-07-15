@@ -1,4 +1,4 @@
-package beibao;
+package 背包;
 
 public class 完全背包2 {
     public static int completePack2(int V,int N,int[] weight,int[] value){

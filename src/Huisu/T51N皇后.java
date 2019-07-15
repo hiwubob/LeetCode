@@ -3,16 +3,17 @@ package Huisu;
 import java.util.ArrayList;
 import java.util.List;
 
-public class T52Nhuanghou2 {
+public class T51N皇后 {
 
 	List<List<String>> res = new ArrayList<>();
-    public List<List<String>> solveNQueens(int n) {
+
+     
+    public int totalNQueens(int n) {
         //list的索引代表行号，value代表该行的列号
         List<Integer> list = new ArrayList<>();
-        getRes(n,0,list);
-        return res;
+        getRes(n,0,list); 
+        return res.size();
     }
-    
     public void getRes(int n,int index,List<Integer> list){
         if(index == n){
             //已经找到一个安置方法
@@ -36,7 +37,7 @@ public class T52Nhuanghou2 {
                 //该列上是否已经存在皇后
                 if(!list.contains(i)){
                     //行差等于列差，说明左斜线或者右斜线同时有两个互相攻击的皇后     i是列 k是行号 get（k）=列
-                    int size = list.size();
+                    int size = list.size();//size 行数
                     for(int k=0;k<size;k++){
                         if(size-k == Math.abs(i-list.get(k)))
                            continue P; 
@@ -51,19 +52,11 @@ public class T52Nhuanghou2 {
             }
         }
     }
-
+    
     public static void main(String[] args) {
-        T52Nhuanghou2 t=new T52Nhuanghou2();
-        List<List<String>> l=new ArrayList<>();
-        l=t.solveNQueens(4);
-        for (List<String> ll:l
-             ) {
-            for (String s :
-                    ll) {
-                System.out.println(s);
-            }
-
-        }
-
-    }
+		T51N皇后 t=new T51N皇后();
+		int res;
+		res=t.totalNQueens(4);
+		System.out.println(res);
+	}
 }

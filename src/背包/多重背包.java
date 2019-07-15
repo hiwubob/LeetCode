@@ -1,4 +1,4 @@
-package beibao;
+package 背包;
 /**
  * V 背包容量
  * N 物品种类
