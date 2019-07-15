@@ -22,4 +22,11 @@ public class 子集 {
 
         }
     }
+
+    public static void main(String[] args) {
+        int[] a = {1, 2, 3};
+        子集 s=new 子集();
+        List list=s.subsets(a);
+        System.out.println(list);
+    }
 }

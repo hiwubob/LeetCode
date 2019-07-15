@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class T145后序遍历{
+public class T145post{
 	public List<Integer> postOrderTraversal(TreeNode root) {
 		List<Integer> resList = new ArrayList<>();
 		if (root != null) {
