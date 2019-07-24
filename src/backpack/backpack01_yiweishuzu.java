@@ -1,37 +1,24 @@
 package backpack;
 
 public class backpack01_yiweishuzu {
-    /*01背包问题的定义：
-     有N种物品和一个容量为V的背包，每种物品只能装1件。
-     第i种物品的费用是v，价值是w。求解将哪些物品装入背包可使这些物品
-     的费用总和不超过背包容量，且价值总和最大。*/
 
-    public static void main(String[] args) {
-
-        int[] w = {0, 3, 4, 5};//重量
-        int[] v = {0, 3, 4, 5};//价格
-        int max = 10;//最大载重
-       //创建二维数组，实现所有情况：横向是背包载重，纵向是物品列表，将每次最优结果填充到数组中
-
-
-        int[] f = new int[max + 1];
-        for (int i = 0; i < f.length; i++) {
-            f[i] = 0;//不必装满初始化为0
-        }
-
-        for (int i = 0; i < w.length; i++) {
-            for (int j = f.length - 1; j >= w[i]; j--) {
-                f[j] = Math.max(f[j], f[j - w[i]] + v[i]);
+    /**
+     * 0-1背包的优化解法
+     * 思路：
+     * 只用一个一维数组记录状态，dp[i]表示容量为i的背包所能装入物品的最大价值
+     * 用逆序来实现
+     */
+    public static int ZeroOnePack2(int V,int N,int[] weight,int[] value){
+        //动态规划
+        int[] dp = new int[V+1];
+        for(int i=1;i<N+1;i++){
+            //逆序实现
+            for(int j=V;j>=weight[i-1];j--){
+                dp[j] = Math.max(dp[j-weight[i-1]]+value[i-1],dp[j]);
             }
         }
-
-        for (int i = 0; i < f.length; i++) {
-
-                System.out.print(f[i]+" ");
-
-        }
-
-        System.out.println(f[f.length-1]);
+        return dp[V];
     }
+
 
 }
