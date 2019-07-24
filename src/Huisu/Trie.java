@@ -1,5 +1,0 @@
-package Huisu;
-
-class Trie {
-
-}

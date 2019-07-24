@@ -1,24 +1,22 @@
-package backpack;
+package ±³°ü;
 
-public class backpack01_yiweishuzu {
-
+public class ÁãÒ»±³°üÓÅ»¯ {
     /**
-     * 0-1èƒŒåŒ…çš„ä¼˜åŒ–è§£æ³•
-     * æ€è·¯ï¼š
-     * åªç”¨ä¸€ä¸ªä¸€ç»´æ•°ç»„è®°å½•çŠ¶æ€ï¼Œdp[i]è¡¨ç¤ºå®¹é‡ä¸ºiçš„èƒŒåŒ…æ‰€èƒ½è£…å…¥ç‰©å“çš„æœ€å¤§ä»·å€¼
-     * ç”¨é€†åºæ¥å®ç°
+     * 0-1±³°üµÄÓÅ»¯½â·¨
+     * Ë¼Â·£º
+     * Ö»ÓÃÒ»¸öÒ»Î¬Êı×é¼ÇÂ¼×´Ì¬£¬dp[i]±íÊ¾ÈİÁ¿ÎªiµÄ±³°üËùÄÜ×°ÈëÎïÆ·µÄ×î´ó¼ÛÖµ
+     * ÓÃÄæĞòÀ´ÊµÏÖ
      */
     public static int ZeroOnePack2(int V,int N,int[] weight,int[] value){
-        //åŠ¨æ€è§„åˆ’
+        //¶¯Ì¬¹æ»®
         int[] dp = new int[V+1];
         for(int i=1;i<N+1;i++){
-            //é€†åºå®ç°
+            //ÄæĞòÊµÏÖ
+            //v±³°üÈİÁ¿
             for(int j=V;j>=weight[i-1];j--){
                 dp[j] = Math.max(dp[j-weight[i-1]]+value[i-1],dp[j]);
             }
         }
         return dp[V];
     }
-
-
 }

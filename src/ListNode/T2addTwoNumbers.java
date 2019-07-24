@@ -1,12 +1,13 @@
 package ListNode;
 
 public class T2addTwoNumbers {
+//	两数相加 Meidum
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		if (l1 == null || l2 == null) {
 			return l1 == null ? l2 : l1;
 		}
 		int carry = 0;
-		ListNode resNode = new ListNode(-1);
+		ListNode resNode = new ListNode(-1);//添加哑结点
 		ListNode head = resNode;
 		while (l1 != null || l2 != null) {
 			int sum = carry;
