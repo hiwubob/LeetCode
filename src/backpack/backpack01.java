@@ -8,38 +8,38 @@ public class backpack01 {
 
     public static void main(String[] args) {
 
-        int[] w = {0, 3, 4, 5};//重量
+        int[] weight = {0, 3, 4, 5};//重量
         int[] v = {0, 3, 4, 5};//价格
-        int max = 10;//最大载重
+        int maxWeight = 10;//最大载重
        //创建二维数组，实现所有情况：横向是背包载重，纵向是物品列表，将每次最优结果填充到数组中
-        int[][] maxValue = new int[w.length][max];
+        int[][] maxValue = new int[weight.length][maxWeight];
 
-        for (int i = 0; i < max; i++) {//外层是背包的重量，从0-max，一个个测试
-            for (int n = 0; n < w.length; n++) {//每一次背包确定载重时，依次拿物品来装，取得当前载重最高价值
+        for (int i = 0; i < maxWeight; i++) {//外层是背包的重量，从0-max，一个个测试
+            for (int n = 0; n < weight.length; n++) {//每一次背包确定载重时，依次拿物品来装，取得当前载重最高价值
                 if (i == 0 || n == 0) {//起始状态
                     maxValue[n][i]=0;
                 }else {
                     //否则，开始判断当前物品能否装到当前载重的背包中
-                    if (i < w[n]) {//当前物品重量是超过载重的，则使用上一次最优结果
+                    if (i < weight[n]) {//当前物品重量是超过载重的，则使用上一次最优结果
                         maxValue[n][i] = maxValue[n - 1][i];
                     }else {
                         //否则，可以放也可以不放，分别计算
                         int v1 = maxValue[n - 1][i];//不放，就是上次最大值
-                        int v2 = maxValue[n - 1][i - w[n]] + v[n];//放，上次最大值加上本次价值
+                        int v2 = maxValue[n - 1][i - weight[n]] + v[n];//放，上次最大值加上本次价值
                         maxValue[n][i] = Math.max(v1, v2);
                     }
                 }
             }
         }
 
-        for (int n = 0; n < w.length; n++) {
-            for (int i = 0; i < max; i++) {
+        for (int n = 0; n < weight.length; n++) {
+            for (int i = 0; i < maxWeight; i++) {
                 System.out.print(maxValue[n][i]+" ");
             }
             System.out.println();
         }
 
-        System.out.println(maxValue[w.length-1][max-1]);
+        System.out.println(maxValue[weight.length-1][maxWeight-1]);
     }
 
 }
