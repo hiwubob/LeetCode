@@ -9,7 +9,7 @@ public class backpack01 {
     public static void main(String[] args) {
 
         int[] weight = {0, 3, 4, 5};//重量
-        int[] v = {0, 3, 4, 5};//价格
+        int[] value = {0, 3, 4, 5};//价格
         int maxWeight = 10;//最大载重
        //创建二维数组，实现所有情况：横向是背包载重，纵向是物品列表，将每次最优结果填充到数组中
         int[][] maxValue = new int[weight.length][maxWeight];
@@ -25,7 +25,7 @@ public class backpack01 {
                     }else {
                         //否则，可以放也可以不放，分别计算
                         int v1 = maxValue[n - 1][i];//不放，就是上次最大值
-                        int v2 = maxValue[n - 1][i - weight[n]] + v[n];//放，上次最大值加上本次价值
+                        int v2 = maxValue[n - 1][i - weight[n]] + value[n];//放，上次最大值加上本次价值
                         maxValue[n][i] = Math.max(v1, v2);
                     }
                 }
