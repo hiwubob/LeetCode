@@ -1,6 +1,6 @@
 package backpack;
 
-public class backpack01_yiweishuzu {
+public class ZeroOnePack_yiweishuzu {
 
     /**
      * 0-1背包的优化解法

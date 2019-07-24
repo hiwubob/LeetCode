@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/ZeroOnePack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu_zhaungman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backpack/ZeroOnePack_yiweishuzu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,20 +117,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-229">
               <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack_yiweishuzu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            <state relative-caret-position="60">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backpack/manyPack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -140,8 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backpack/backpacktotal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="1709">
+              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -180,8 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DBFS/T130solve.java" />
-        <option value="$PROJECT_DIR$/src/greedy/No53zuidazixuhe.java" />
         <option value="$PROJECT_DIR$/src/greedy/T121maimaigupiao.java" />
         <option value="$PROJECT_DIR$/src/greedy/No122maimaigupiao2.java" />
         <option value="$PROJECT_DIR$/src/greedy/No605zhonghua.java" />
@@ -228,9 +233,11 @@
         <option value="$PROJECT_DIR$/src/MultiThread/BoundedQueue.java" />
         <option value="$PROJECT_DIR$/src/Dp/No322零钱兑换.java" />
         <option value="$PROJECT_DIR$/src/Dp/No518零钱兑换2.java" />
-        <option value="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" />
         <option value="$PROJECT_DIR$/src/backpack/backpack01.java" />
         <option value="$PROJECT_DIR$/src/backpack/ZeroOnePack.java" />
+        <option value="$PROJECT_DIR$/src/backpack/backpacktotal.java" />
+        <option value="$PROJECT_DIR$/src/backpack/manyPack.java" />
+        <option value="$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java" />
       </list>
     </option>
   </component>
@@ -241,8 +248,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2182" />
-    <option name="y" value="236" />
+    <option name="x" value="424" />
+    <option name="y" value="10" />
     <option name="width" value="1024" />
     <option name="height" value="677" />
   </component>
@@ -450,14 +457,7 @@
       <workItem from="1563156784856" duration="5502000" />
       <workItem from="1563354415776" duration="1580000" />
       <workItem from="1563457779775" duration="2950000" />
-      <workItem from="1563780697870" duration="22217000" />
-    </task>
-    <task id="LOCAL-00023" summary="Default Changelist">
-      <created>1559737727227</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1559737727227</updated>
+      <workItem from="1563780697870" duration="22461000" />
     </task>
     <task id="LOCAL-00024" summary="Default Changelist">
       <created>1559738616730</created>
@@ -795,7 +795,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563971941174</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="0">
+      <created>1563975050400</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1563975050400</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -810,7 +817,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183985000" />
+    <option name="totallyTimeSpent" value="184229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,10 +829,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2040" y="239" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49595687" visible="true" weight="0.22277936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49595687" visible="true" weight="0.15518962" />
       <window_info id="Structure" order="1" sideWeight="0.5040431" side_tool="true" weight="0.22277936" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -986,13 +993,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/回溯/子集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/T144pre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1361,22 +1361,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backpack/backpacktotal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="1709">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backpack/backpack01_yiweishuzu.java">
+    <entry file="file://$PROJECT_DIR$/src/backpack/manyPack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        <state relative-caret-position="553">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="-229">
           <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack_yiweishuzu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
