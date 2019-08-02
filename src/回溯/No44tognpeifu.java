@@ -12,6 +12,7 @@ public class No44tognpeifu {
 
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
+//                如果s1的第 i 个字符和s2的第 j 个字符相同，或者s2的第 j 个字符为 “.”
                 if (s.charAt(i - 1) == p.charAt(j - 1) || p.charAt(j - 1) == '?') {
                     f[i][j] = f[i - 1][j - 1];
                 }
