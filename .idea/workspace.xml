@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="0">
-      <change afterPath="$PROJECT_DIR$/src/Dp/No121gupiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dp/No122gupiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No35shuzuzhongdenixushu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/asdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/dajiang3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/大疆1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/拼多多1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/拼多多2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/拼多多3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,111 +48,77 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/Executors.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/大疆1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="284" column="32" selection-start-line="284" selection-start-column="32" selection-end-line="284" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="557" column="30" selection-start-line="557" selection-start-column="30" selection-end-line="557" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="588" column="19" selection-start-line="588" selection-start-column="19" selection-end-line="588" selection-end-column="19" />
+            <state relative-caret-position="-390">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#6849#6850#0" expanded="true" />
-                <element signature="e#6907#6908#0" expanded="true" />
-                <element signature="e#7116#7117#0" expanded="true" />
-                <element signature="e#7150#7151#0" expanded="true" />
-                <element signature="e#8451#8452#0" expanded="true" />
-                <element signature="e#8515#8516#0" expanded="true" />
-                <element signature="e#20237#20238#0" expanded="true" />
-                <element signature="e#20275#20276#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#289#307#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/dajiang3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="924" column="9" lean-forward="true" selection-start-line="924" selection-start-column="9" selection-end-line="924" selection-end-column="9" />
+            <state relative-caret-position="480">
+              <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding>
-                <element signature="e#36709#36710#0" expanded="true" />
-                <element signature="e#36767#36768#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="328" column="67" selection-start-line="328" selection-start-column="67" selection-end-line="328" selection-end-column="67" />
-              <folding>
-                <element signature="e#7819#7820#0" expanded="true" />
-                <element signature="e#7872#7873#0" expanded="true" />
-                <element signature="e#14106#14107#0" expanded="true" />
-                <element signature="e#14155#14156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No121gupiao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dp/No122gupiao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/No35shuzuzhongdenixushu.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/asdf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+            <state relative-caret-position="-95">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="4" column="3" selection-start-line="4" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backpack/ZeroOnePack_yiweishuzu.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/拼多多2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/拼多多3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/拼多多1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="7" column="45" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -176,6 +146,7 @@
       <find>nonfair</find>
       <find>setExclusiveOwnerThread</find>
       <find>acquire</find>
+      <find>A</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,15 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/greedy/No435wuchongdiequjian.java" />
-        <option value="$PROJECT_DIR$/src/greedy/No452yongzuishaoshuliangdejianyinbaoqiqiu.java" />
-        <option value="$PROJECT_DIR$/src/Dp/No64zuixiaolujinghe.java" />
-        <option value="$PROJECT_DIR$/src/Dp/No63butonglujng2.java" />
-        <option value="$PROJECT_DIR$/src/Dp/No72bianjijuli.java" />
-        <option value="$PROJECT_DIR$/src/Dp/No84zuidajuxing.java" />
-        <option value="$PROJECT_DIR$/src/beibao/beibao01.java" />
-        <option value="$PROJECT_DIR$/src/beibao/beibao01II.java" />
-        <option value="$PROJECT_DIR$/src/beibao/多重背包.java" />
         <option value="$PROJECT_DIR$/src/beibao/完全背包.java" />
         <option value="$PROJECT_DIR$/src/beibao/完全背包2.java" />
         <option value="$PROJECT_DIR$/src/beibao/多重背包2.java" />
@@ -238,6 +200,15 @@
         <option value="$PROJECT_DIR$/src/Dp/No121gupiao.java" />
         <option value="$PROJECT_DIR$/src/Dp/No122gupiao.java" />
         <option value="$PROJECT_DIR$/src/JIANZHIOffer/No35shuzuzhongdenixushu.java" />
+        <option value="$PROJECT_DIR$/src/笔试/拼多多1.java" />
+        <option value="$PROJECT_DIR$/src/笔试/拼多多3.java" />
+        <option value="$PROJECT_DIR$/src/笔试/拼多多4.java" />
+        <option value="$PROJECT_DIR$/src/回溯/T40zuhezonghe2.java" />
+        <option value="$PROJECT_DIR$/src/笔试/大疆1.java" />
+        <option value="$PROJECT_DIR$/src/笔试/j2.java" />
+        <option value="$PROJECT_DIR$/src/笔试/Main.java" />
+        <option value="$PROJECT_DIR$/src/笔试/dajiang3.java" />
+        <option value="$PROJECT_DIR$/src/笔试/asdf.java" />
       </list>
     </option>
   </component>
@@ -248,10 +219,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2085" />
-    <option name="y" value="237" />
-    <option name="width" value="1024" />
-    <option name="height" value="677" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1253" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,19 +246,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="backpack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JIANZHIOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="笔试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,6 +283,7 @@
       <recent name="D:\onos项目\LeetCode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="笔试" />
       <recent name="Dp" />
       <recent name="Huisu" />
       <recent name="Observer" />
@@ -346,13 +306,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T27zifuchuandepailie">
-    <configuration name="子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="回溯.子集" />
+  <component name="RunManager" selected="Application.dajiang3">
+    <configuration name="拼多多1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.拼多多1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="回溯.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No452yongzuishaoshuliangdejianyinbaoqiqiu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.No452yongzuishaoshuliangdejianyinbaoqiqiu" />
+    <configuration name="大疆1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.大疆1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="greedy.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T27zifuchuandepailie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JIANZHIOffer.T27zifuchuandepailie" />
+    <configuration name="拼多多4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.拼多多4" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JIANZHIOffer.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,12 +346,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Observer.Test" />
+    <configuration name="asdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.asdf" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Observer.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="te" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kproblem.te" />
+    <configuration name="dajiang3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.dajiang3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kproblem.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,11 +374,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T27zifuchuandepailie" />
-        <item itemvalue="Application.子集" />
-        <item itemvalue="Application.No452yongzuishaoshuliangdejianyinbaoqiqiu" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.te" />
+        <item itemvalue="Application.dajiang3" />
+        <item itemvalue="Application.asdf" />
+        <item itemvalue="Application.大疆1" />
+        <item itemvalue="Application.拼多多4" />
+        <item itemvalue="Application.拼多多1" />
       </list>
     </recent_temporary>
   </component>
@@ -463,14 +423,7 @@
       <workItem from="1563156784856" duration="5502000" />
       <workItem from="1563354415776" duration="1580000" />
       <workItem from="1563457779775" duration="2950000" />
-      <workItem from="1563780697870" duration="31228000" />
-    </task>
-    <task id="LOCAL-00026" summary="Default Changelist">
-      <created>1561028617220</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1561028617220</updated>
+      <workItem from="1563780697870" duration="52000000" />
     </task>
     <task id="LOCAL-00027" summary="Default Changelist">
       <created>1561117894008</created>
@@ -808,7 +761,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563975656811</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="0">
+      <created>1564218517919</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1564218517920</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -823,7 +783,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192996000" />
+    <option name="totallyTimeSpent" value="213768000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,10 +795,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2040" y="239" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49595687" visible="true" weight="0.22277936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49595687" visible="true" weight="0.15518962" />
       <window_info id="Structure" order="1" sideWeight="0.5040431" side_tool="true" weight="0.22277936" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -848,7 +808,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26145554" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31790745" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -858,8 +818,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32997987" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.26684636" />
-      <window_info anchor="bottom" id="调试" order="13" weight="0.34501347" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.4144869" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.32696176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -872,6 +832,41 @@
       <window_info anchor="right" id="调色板" order="9" />
       <window_info anchor="right" x="0" y="0" width="312" height="672" id="文档" order="10" side_tool="true" weight="0.32997844" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49595687" visible="true" weight="0.26068735" />
+      <window_info id="Structure" order="1" sideWeight="0.5040431" side_tool="true" weight="0.22277936" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3295129" />
+      <window_info id="设计器" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26113117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32997987" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.26684636" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3309266" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3295129" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295129" />
+      <window_info anchor="right" id="调色板" order="9" />
+      <window_info anchor="right" x="0" y="0" width="312" height="672" id="文档" order="10" side_tool="true" weight="0.32997844" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -972,6 +967,30 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/拼多多1.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/拼多多1.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/dajiang3.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/笔试/dajiang3.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/Annotation/Apple.java</url>
           <line>4</line>
@@ -991,6 +1010,7 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="points" />
+        <watch expression="j" />
       </configuration>
     </watches-manager>
   </component>
@@ -999,179 +1019,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Kproblem/No703shujuliuzhongKdayuansu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dp/T55canJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dp/No64zuixiaolujinghe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T102level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Tree2LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JIANZHIOffer/T27zifuchuandepailie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dp/No63butonglujng2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16770">
-          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackandQueue/GetMaxWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackandQueue/getNearLessNoRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/T496nextGreaterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/T503nextGreaterElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/T739dailytemperatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/JingDongObserver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Observer/ProductList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Ali.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/JingDong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/PersonServiceInterceptor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2370">
-          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
-          <folding>
-            <element signature="e#7388#7389#0" expanded="true" />
-            <element signature="e#7427#7428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Proxy/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/回溯/T37jieshudu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LRU/LinkedHashMapLru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LRU/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -1378,7 +1225,7 @@
     <entry file="jar://F:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="559">
-          <caret line="924" column="9" lean-forward="true" selection-start-line="924" selection-start-column="9" selection-end-line="924" selection-end-column="9" />
+          <caret line="924" column="9" selection-start-line="924" selection-start-column="9" selection-end-line="924" selection-end-column="9" />
           <folding>
             <element signature="e#36709#36710#0" expanded="true" />
             <element signature="e#36767#36768#0" expanded="true" />
@@ -1417,6 +1264,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T17电话号码.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T77zuhe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T131partition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T131fengehuiwenchuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T1012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T306leijiashu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T146LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T146_v2LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T79fangfa2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T78ziji.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T77zuhe2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/Haikangweishi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T37jieshudu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T39zuhezonghe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/拼多多3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯/T40zuhezonghe2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/大疆1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/dajiang3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/asdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
