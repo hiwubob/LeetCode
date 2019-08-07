@@ -13,7 +13,7 @@ public class 跑步 {
         try {
             System.out.println("比赛开始了");
             begin.countDown();
-            end.wait();
+            end.await();
             System.out.println("比赛结束");
         } catch (InterruptedException e) {
             e.printStackTrace();
