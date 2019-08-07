@@ -1,4 +1,4 @@
-package 多线程.赛跑;
+package 多线程;
 
 import java.util.concurrent.CountDownLatch;
 
