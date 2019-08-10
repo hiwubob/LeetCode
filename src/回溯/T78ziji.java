@@ -21,5 +21,12 @@ public class T78ziji {
 				cur.remove(cur.size() - 1);
 			}
 		}
+
+	public static void main(String[] args) {
+		T78ziji t=new T78ziji();
+		int[] nums = {1, 2, 3};
+		List<List<Integer>> res = t.subsets(nums);
+		System.out.println(res);
+	}
 	
 }
