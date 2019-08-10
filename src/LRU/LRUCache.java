@@ -3,7 +3,7 @@ package LRU;
 import java.util.HashMap;
 
 
-public class LRUCache<K, V> {
+public class  LRUCache<K, V> {
 
     private int currentCacheSize;
     private int CacheCapcity;

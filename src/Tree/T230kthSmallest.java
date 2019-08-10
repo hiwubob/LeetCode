@@ -10,7 +10,7 @@ public class T230kthSmallest {
 	}
 
 	private void kthSmallestInOrder(TreeNode node, int k) {
-		if (node == null) {
+		if (node == null|| count>k) {
 			return;
 		}
 
