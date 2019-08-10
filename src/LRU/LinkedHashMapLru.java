@@ -4,19 +4,19 @@ import java.util.LinkedHashMap;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class LinkedHashMapLru<K,V>extends LinkedHashMap<K,V> {
+public class LinkedHashMapLru<K, V> extends LinkedHashMap<K, V> {
     private final int maxCapacity;
-    private static final float DEFAULT_LOAD_FACTOR=0.75f;
+    private static final float DEFAULT_LOAD_FACTOR = 0.75f;
     private final Lock lock = new ReentrantLock();
 
     public LinkedHashMapLru(int maxCapacity) {
         super(maxCapacity, DEFAULT_LOAD_FACTOR, true);//!!!!!!accessOrder
-        this.maxCapacity=maxCapacity;
+        this.maxCapacity = maxCapacity;
     }
 
     @Override
     protected boolean removeEldestEntry(java.util.Map.Entry<K, V> eldest) {
-        return size()>maxCapacity;
+        return size() > maxCapacity;
     }
 
     @Override
@@ -24,7 +24,7 @@ public class LinkedHashMapLru<K,V>extends LinkedHashMap<K,V> {
         try {
             lock.lock();
             return super.containsKey(key);
-        }finally {
+        } finally {
             lock.unlock();
         }
     }
@@ -34,7 +34,7 @@ public class LinkedHashMapLru<K,V>extends LinkedHashMap<K,V> {
         try {
             lock.lock();
             return super.get(key);
-        }finally {
+        } finally {
             lock.unlock();
         }
     }
@@ -54,7 +54,7 @@ public class LinkedHashMapLru<K,V>extends LinkedHashMap<K,V> {
         try {
             lock.lock();
             return super.size();
-        }finally {
+        } finally {
             lock.unlock();
         }
 
@@ -64,7 +64,7 @@ public class LinkedHashMapLru<K,V>extends LinkedHashMap<K,V> {
         try {
             lock.lock();
             super.clear();
-        }finally {
+        } finally {
             lock.unlock();
         }
     }
