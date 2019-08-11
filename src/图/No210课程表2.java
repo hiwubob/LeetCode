@@ -5,16 +5,16 @@ import java.util.*;
 public class No210课程表2 {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         boolean isPossible=true;
-        Map<Integer, List<Integer>> adjList = new HashMap<>();
+        Map<Integer, List<Integer>> map = new HashMap<>();
         int[] degree = new int[numCourses];
         int[] topologicalOrder = new int[numCourses];
 
         for (int i = 0; i < prerequisites.length; i++) {
             int dest = prerequisites[i][0];
             int src = prerequisites[i][1];
-            List<Integer> lst = adjList.getOrDefault(src, new ArrayList<>());
+            List<Integer> lst = map.getOrDefault(src, new ArrayList<>());
             lst.add(dest);
-            adjList.put(src, lst);
+            map.put(src, lst);
             degree[dest]+=1;
         }
 
@@ -28,9 +28,9 @@ public class No210课程表2 {
         while (!q.isEmpty()) {
             int node=q.remove();
             topologicalOrder[i++]=node;
-            if (adjList.containsKey(node)) {
+            if (map.containsKey(node)) {
                 for (Integer nei :
-                        adjList.get(node)) {
+                        map.get(node)) {
                     degree[nei]--;
                     if (degree[nei] == 0) {
                         q.add(nei);

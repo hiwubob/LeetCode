@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/图/No207课程表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/No210课程表2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/no3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/toutiao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/toutiao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/toutiao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/笔试/toutiao4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/图/No210课程表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/No210课程表2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/笔试/NO拼多多3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/笔试/NO拼多多3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,37 +46,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/balance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="2" selection-start-line="11" selection-end-line="13" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/贝壳1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="450">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -84,20 +63,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/图/No210课程表2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="236">
+              <caret line="18" column="9" lean-forward="true" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/NO1拼多多.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/toutiao3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
-              <caret line="59" column="52" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
+            <state relative-caret-position="-60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/no3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,10 +94,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多2.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/toutiao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="390">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="717">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/笔试/toutiao4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/笔试/toutiao1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1184">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,22 +136,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多4.java">
+        <entry file="file://$PROJECT_DIR$/src/笔试/贝壳2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LRU/LinkedHashMapLru.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="-240">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -158,6 +164,7 @@
       <find>basecount</find>
       <find>putval</find>
       <find>countercell</find>
+      <find>solve</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -170,14 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dp/T5longestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T279Medium.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T279numSquares.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T217ladderLength.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T200numIslands.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T130solve.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T695maxAreaOfIsland.java" />
-        <option value="$PROJECT_DIR$/src/DBFS/T547findCircleNum.java" />
         <option value="$PROJECT_DIR$/src/Huisu/T131partition.java" />
         <option value="$PROJECT_DIR$/src/Huisu/T77zuhe.java" />
         <option value="$PROJECT_DIR$/src/Huisu/T46quanpailie.java" />
@@ -216,11 +215,19 @@
         <option value="$PROJECT_DIR$/src/Tree/Mirror.java" />
         <option value="$PROJECT_DIR$/src/Tree/balance.java" />
         <option value="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" />
-        <option value="$PROJECT_DIR$/src/笔试/NO拼多多3.java" />
         <option value="$PROJECT_DIR$/src/笔试/NO拼多多2.java" />
         <option value="$PROJECT_DIR$/src/LRU/LinkedHashMapLru.java" />
         <option value="$PROJECT_DIR$/src/图/No207课程表.java" />
+        <option value="$PROJECT_DIR$/src/笔试/NO拼多多3.java" />
         <option value="$PROJECT_DIR$/src/图/No210课程表2.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao1.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao11.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao3.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao2.java" />
+        <option value="$PROJECT_DIR$/src/笔试/no3.java" />
+        <option value="$PROJECT_DIR$/src/笔试/Main.java" />
+        <option value="$PROJECT_DIR$/src/笔试/toutiao4.java" />
       </list>
     </option>
   </component>
@@ -260,6 +267,12 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="图" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="笔试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LRUCache">
+  <component name="RunManager" selected="Application.no3">
     <configuration name="跑步" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="多线程.跑步" />
       <module name="LeetCode" />
@@ -335,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T78ziji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="回溯.T78ziji" />
+    <configuration name="no3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.no3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="回溯.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wu1631 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="练手.wu1631" />
+    <configuration name="toutiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.toutiao" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="练手.*" />
+          <option name="PATTERN" value="笔试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,20 +374,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wu1631" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wu1631" />
+    <configuration name="toutiao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试.toutiao1" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.no3" />
+        <item itemvalue="Application.toutiao1" />
+        <item itemvalue="Application.toutiao" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.跑步" />
-        <item itemvalue="Application.T78ziji" />
-        <item itemvalue="Application.wu1631 (1)" />
-        <item itemvalue="Application.wu1631" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +432,7 @@
       <workItem from="1565248824475" duration="27000" />
       <workItem from="1565249750247" duration="10558000" />
       <workItem from="1565505608042" duration="583000" />
-      <workItem from="1565514248516" duration="1238000" />
+      <workItem from="1565514248516" duration="11145000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -604,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565505622695</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Default Changelist">
+      <created>1565515630474</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1565515630474</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -619,7 +645,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71659000" />
+    <option name="totallyTimeSpent" value="81566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -644,7 +670,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3270073" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32614556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,9 +679,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49964514" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003549" side_tool="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.26861313" />
-      <window_info anchor="bottom" id="调试" order="13" weight="0.3808219" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003549" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.26819408" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3787062" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -769,13 +795,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/回溯/T46quanpailie.java" />
-    <entry file="file://$PROJECT_DIR$/src/回溯/T131partition.java" />
-    <entry file="file://$PROJECT_DIR$/src/回溯/T131fengehuiwenchuan.java" />
-    <entry file="file://$PROJECT_DIR$/src/回溯/T79fangfa2.java" />
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/T324baidongpaixu.java" />
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/T179zuidashu.java" />
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/No3wuchongfuzifuzuichagnzichuan.java" />
     <entry file="file://$PROJECT_DIR$/src/LeetCode/No2liangshuxiangjia.java" />
     <entry file="file://$PROJECT_DIR$/src/买票/ShopTickets.java" />
     <entry file="file://$PROJECT_DIR$/src/买票/TicketSales.java" />
@@ -901,20 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="2" selection-start-line="11" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/笔试/NO1拼多多.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1740">
@@ -966,10 +971,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/贝壳2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/图/No210课程表2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="236">
+          <caret line="18" column="9" lean-forward="true" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/toutiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/no3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/toutiao1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1184">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/toutiao3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/笔试/toutiao4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -37,13 +37,16 @@ public class NOÆ´¶à¶à3 {
             for (int i = 0; i < m; ++i) {
                 int u = in.nextInt();
                 int v = in.nextInt();
-                if (graph.containsKey(u)) {
+                /*if (graph.containsKey(u)) {
                     graph.get(u).add(v);
                 } else {
                     List<Integer> edges = new ArrayList<>();
                     edges.add(v);
                     graph.put(u, edges);
-                }
+                }*/
+                List<Integer> edges = graph.getOrDefault(u, new ArrayList<>());
+                edges.add(v);
+                graph.put(u, edges);
                 indegree[v]++;
             }
             //topological sort
