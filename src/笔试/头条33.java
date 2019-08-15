@@ -2,9 +2,8 @@ package ±  ‘;
 
 import java.util.Scanner;
 
-import static ±  ‘.no3.minNum;
 
-public class no3 {
+public class Õ∑Ãı33 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
