@@ -5,6 +5,15 @@ public class manyPack {
      * 第三类背包：多重背包
      *
      */
+    /**
+     * 0-1背包问题
+     *
+     * @param V 背包容量
+     * @param N 物品种类
+     * @param weight 物品重量
+     * @param value 物品价值
+     * @return
+     */
     public static int manyPack(int V,int N,int[] weight,int[] value,int[] num){
         //初始化动态规划数组
         int[][] dp = new int[N+1][V+1];
