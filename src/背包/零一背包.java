@@ -39,4 +39,12 @@ public class 零一背包 {
         }
         return numStr;
     }
+
+    public static void main(String[] args) {
+        int[] wei = {5, 3, 2, 10, 4, 8};
+        int val[] = {4, 8, 15, 1, 6, 3};
+        零一背包 s=new 零一背包();
+        String ss=s.ZeroOnePack(20, 6, wei, val);
+        System.out.println(ss);
+    }
 }
