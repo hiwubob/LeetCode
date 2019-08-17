@@ -5,6 +5,16 @@ import java.util.HashMap;
 
 public class  LRUCache<K, V> {
 
+    class CacheNode{
+        CacheNode pre;
+        CacheNode next;
+        Object key;
+        Object value;
+        public CacheNode(){
+
+        }
+    }
+
     private int currentCacheSize;
     private int CacheCapcity;
     private HashMap<K,CacheNode> caches;
@@ -117,15 +127,7 @@ public class  LRUCache<K, V> {
         return sb.toString();
     }
 
-    class CacheNode{
-        CacheNode pre;
-        CacheNode next;
-        Object key;
-        Object value;
-        public CacheNode(){
 
-        }
-    }
 
     public static void main(String[] args) {
 
