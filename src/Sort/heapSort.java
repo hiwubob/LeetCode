@@ -40,4 +40,13 @@ public class heapSort {
 		}
 
 	}
+
+	public static void main(String[] args) {
+		heapSort h=new heapSort();
+		int[] a={0,1,2,3,4,5,6};
+		h.heapSort(a);
+		for (int b:a){
+			System.out.println(b);
+		}
+	}
 }
