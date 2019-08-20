@@ -1,6 +1,6 @@
 package Tree;
 
-public class T101isSymmetric {
+public class Ê÷¶Ô³Æ {
 
     public boolean isSymmetric(TreeNode root) {
         return isMirror(root, root);

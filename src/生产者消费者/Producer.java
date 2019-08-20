@@ -7,9 +7,6 @@ public class Producer implements Runnable {
 
     public Producer(Storage storage){};
 
-    public Producer(Storage storage, String name) {
-        this.storage = storage;
-    }
 
     public void run() {
         while (true) {

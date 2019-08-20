@@ -1,7 +1,6 @@
 package 生产者消费者;
 
 import java.util.LinkedList;
-import java.util.Queue;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.Condition;
@@ -53,33 +52,40 @@ public class Storage {
     Condition empty = lock.newCondition();
 
     public void produce1() {
-        lock.lock();
-        while (list.size() + 1 > MAX_SIZE) {
-            System.out.println("已满");
-            try {
-                full.await();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        try {
+            lock.lock();
+            while (list.size() + 1 > MAX_SIZE) {
+                System.out.println("已满");
+                try {
+                    full.await();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
+            list.add(new Object());
+            empty.signal();
+        } finally {
+            lock.unlock();
         }
-        list.add(new Object());
-        empty.signal();
-        lock.unlock();
+
     }
 
     public void consume2() {
-        lock.lock();
-        while (list.size() == 0) {
-            System.out.println("已空");
-            try {
-                empty.await();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        try {
+            lock.lock();
+            while (list.size() == 0) {
+                System.out.println("已空");
+                try {
+                    empty.await();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
+            list.remove();
+            full.signal();
+        } finally {
+            lock.unlock();
         }
-        list.remove();
-        full.signal();
-        lock.unlock();
     }
 
     //阻塞队列
@@ -114,7 +120,7 @@ public class Storage {
             System.out.println("生成 一个");
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }finally {
+        } finally {
             mutex.release();
             notEmpty.release();
         }
@@ -128,7 +134,7 @@ public class Storage {
             System.out.println("消费一个");
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }finally {
+        } finally {
             mutex.release();
             notFull.release();
         }

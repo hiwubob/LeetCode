@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No40isBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JIANZHIOffer/No49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/三数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/生产者消费者/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/生产者消费者/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/生产者消费者/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/生产者消费者/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/N360.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/QQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/QQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/QQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/QQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/QQ5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/n3602.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/科大讯飞1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/科大讯飞2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/生产者消费者/阻塞队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练手/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练手/isheight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/heapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/heapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/笔试/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/生产者消费者/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/生产者消费者/Storage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,31 +46,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Annotation/FruitInfoUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/T144pre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="3" selection-end-line="18" />
+            <state relative-caret-position="30">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LRU/LRUCache.java">
+        <entry file="file://$PROJECT_DIR$/src/练手/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1380">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="630">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/生产者消费者/阻塞队列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/练手/isheight.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/生产者消费者/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1262">
-              <caret line="134" column="5" lean-forward="true" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+            <state relative-caret-position="4260">
+              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/生产者消费者/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -100,34 +117,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/生产者消费者/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
+            <state relative-caret-position="302">
               <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/生产者消费者/Producer.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Annotation/FruitName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,31 +136,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Annotation/FruitColor.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/T145post.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Annotation/Apple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" selection-start-line="2" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListNode/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -201,11 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/多线程/No1114v1.java" />
-        <option value="$PROJECT_DIR$/src/多线程/No1114v2.java" />
-        <option value="$PROJECT_DIR$/src/多线程/No1114v3.java" />
-        <option value="$PROJECT_DIR$/src/多线程/No1114.java" />
-        <option value="$PROJECT_DIR$/src/多线程/No1114v4.java" />
         <option value="$PROJECT_DIR$/src/练手/拼多多.java" />
         <option value="$PROJECT_DIR$/src/回溯/No44tognpeifu.java" />
         <option value="$PROJECT_DIR$/src/练手/拼多多1.java" />
@@ -248,10 +222,15 @@
         <option value="$PROJECT_DIR$/src/Annotation/FruitProvider.java" />
         <option value="$PROJECT_DIR$/src/MultiThread/生产者消费者.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/生产者消费者.java" />
-        <option value="$PROJECT_DIR$/src/生产者消费者/Producer.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/Consumer.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/Main.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/Producer.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/Storage.java" />
+        <option value="$PROJECT_DIR$/src/练手/ziji.java" />
+        <option value="$PROJECT_DIR$/src/练手/level.java" />
+        <option value="$PROJECT_DIR$/src/练手/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/阻塞队列.java" />
+        <option value="$PROJECT_DIR$/src/练手/isheight.java" />
       </list>
     </option>
   </component>
@@ -262,10 +241,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2552" />
-    <option name="y" value="422" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2582" />
+    <option name="height" value="1403" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -289,7 +268,19 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="生产者消费者" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="练手" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -454,7 +445,7 @@
       <workItem from="1565670839836" duration="2461000" />
       <workItem from="1565703451736" duration="196000" />
       <workItem from="1565764091274" duration="6808000" />
-      <workItem from="1566178180405" duration="4375000" />
+      <workItem from="1566178180405" duration="10966000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -659,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565528560869</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Default Changelist">
+      <created>1566199572587</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1566199572587</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -674,7 +672,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100372000" />
+    <option name="totallyTimeSpent" value="106963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,9 +684,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="422" width="1456" height="876" extended-state="6" />
+    <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49460918" visible="true" weight="0.27005732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49460918" visible="true" weight="0.22669874" />
       <window_info id="Structure" order="1" sideWeight="0.5047106" side_tool="true" weight="0.26289397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -823,44 +822,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java" />
-    <entry file="file://$PROJECT_DIR$/src/Tree/T144pre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T145post.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T102level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T572isSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
     <entry file="file://$PROJECT_DIR$/src/Tree/Mirror.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1145,14 +1106,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/练手/wu1631.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T145post.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/练手/level.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T144pre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/练手/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/生产者消费者/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
+        <state relative-caret-position="302">
           <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1163,21 +1172,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Producer.java">
+    <entry file="file://$PROJECT_DIR$/src/生产者消费者/阻塞队列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="362">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/练手/isheight.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/生产者消费者/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1262">
-          <caret line="134" column="5" lean-forward="true" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+        <state relative-caret-position="4260">
+          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
