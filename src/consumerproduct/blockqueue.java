@@ -1,4 +1,4 @@
-package 生产者消费者;
+package consumerproduct;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class 阻塞队列 {
+public class blockqueue {
     Lock lock = new ReentrantLock();
     Condition notFull = lock.newCondition();
     Condition notEmpty = lock.newCondition();

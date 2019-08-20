@@ -1,6 +1,6 @@
 package Tree;
 
-public class Mirror¾µÏñ {
+public class Mirror{
     public void mirror(TreeNode root) {
         if (root == null) {
             return;

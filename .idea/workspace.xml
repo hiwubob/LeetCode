@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/consumerproduct/blockqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/minStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练手/lrutest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练手/zijitest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Mirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Mirror镜像.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T102level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T102level层次.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T144pre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T144pre前序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T145post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T145post后序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T230kthSmallest最小.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T572isSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T572isSubtree子树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T94inorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T94inorder中序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Tree2LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Tree2LinkedList树到链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/平衡树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Mirror镜像.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Mirror.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T102level层次.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T102level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T144pre前序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T144pre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T145post后序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T145poscct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T230kthSmallest最小.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T572isSubtree子树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T572isSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/T94inorder中序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T94inorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Tree2LinkedList树到链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Tree2LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumerproduct/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumerproduct/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumerproduct/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/生产者消费者/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumerproduct/Storage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,98 +57,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/树对称.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Mirror镜像.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder中序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T102level层次.java">
+        <entry file="file://$PROJECT_DIR$/src/consumerproduct/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T144pre前序.java">
+        <entry file="file://$PROJECT_DIR$/src/consumerproduct/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T145post后序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest最小.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/T572isSubtree子树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="330">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Tree2LinkedList树到链表.java">
+        <entry file="file://$PROJECT_DIR$/src/consumerproduct/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tree/leverreverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,18 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/回溯/T90ziji2.java" />
-        <option value="$PROJECT_DIR$/src/回溯/T91fuyuanIPdizhi.java" />
-        <option value="$PROJECT_DIR$/src/回溯/T126dancijielong2.java" />
-        <option value="$PROJECT_DIR$/src/多线程/赛跑/跑步.java" />
-        <option value="$PROJECT_DIR$/src/背包/零一背包优化.java" />
-        <option value="$PROJECT_DIR$/src/多线程/跑步.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
-        <option value="$PROJECT_DIR$/src/LRU/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/笔试/NO1拼多多.java" />
-        <option value="$PROJECT_DIR$/src/笔试/NO拼多多4.java" />
-        <option value="$PROJECT_DIR$/src/笔试/NO拼多多2.java" />
-        <option value="$PROJECT_DIR$/src/LRU/LinkedHashMapLru.java" />
         <option value="$PROJECT_DIR$/src/图/No207课程表.java" />
         <option value="$PROJECT_DIR$/src/笔试/NO拼多多3.java" />
         <option value="$PROJECT_DIR$/src/图/No210课程表2.java" />
@@ -214,14 +141,10 @@
         <option value="$PROJECT_DIR$/src/Annotation/FruitProvider.java" />
         <option value="$PROJECT_DIR$/src/MultiThread/生产者消费者.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/生产者消费者.java" />
-        <option value="$PROJECT_DIR$/src/生产者消费者/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/生产者消费者/Main.java" />
-        <option value="$PROJECT_DIR$/src/生产者消费者/Producer.java" />
         <option value="$PROJECT_DIR$/src/生产者消费者/Storage.java" />
         <option value="$PROJECT_DIR$/src/练手/ziji.java" />
         <option value="$PROJECT_DIR$/src/练手/level.java" />
         <option value="$PROJECT_DIR$/src/练手/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/生产者消费者/阻塞队列.java" />
         <option value="$PROJECT_DIR$/src/练手/isheight.java" />
         <option value="$PROJECT_DIR$/src/Tree/T101isSymmetric.java" />
         <option value="$PROJECT_DIR$/src/Tree/balance.java" />
@@ -229,10 +152,26 @@
         <option value="$PROJECT_DIR$/src/Tree/T94inorder.java" />
         <option value="$PROJECT_DIR$/src/Tree/T102level.java" />
         <option value="$PROJECT_DIR$/src/Tree/T144pre.java" />
-        <option value="$PROJECT_DIR$/src/Tree/T145post.java" />
         <option value="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" />
         <option value="$PROJECT_DIR$/src/Tree/T572isSubtree.java" />
         <option value="$PROJECT_DIR$/src/Tree/Tree2LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/练手/lrutest.java" />
+        <option value="$PROJECT_DIR$/src/练手/zijitest.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T94inorder中序.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T102level层次.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T145post后序.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T144pre前序.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Mirror镜像.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Tree2LinkedList树到链表.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T145post.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T572isSubtree子树.java" />
+        <option value="$PROJECT_DIR$/src/Tree/T230kthSmallest最小.java" />
+        <option value="$PROJECT_DIR$/src/stack/最小栈.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/阻塞队列.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/Producer.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/生产者消费者/Main.java" />
+        <option value="$PROJECT_DIR$/src/consumerproduct/Storage.java" />
       </list>
     </option>
   </component>
@@ -270,13 +209,31 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="consumerproduct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="生产者消费者" type="462c0819:PsiDirectoryNode" />
+              <item name="LRU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StackandQueue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -309,15 +266,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="买票" />
-      <recent name="StackandQueue" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\onos项目\LeetCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\onos项目\LeetCode" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\onos项目\LeetCode" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="买票" />
+      <recent name="StackandQueue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,13 +289,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="头条2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="笔试.头条2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumerproduct.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumerproduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="生产者消费者.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumerproduct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,38 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="no3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.no3" />
+    <configuration name="zijitest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练手.zijitest" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="笔试.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="toutiao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.toutiao1" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="toutiao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试.toutiao2" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="笔试.*" />
+          <option name="PATTERN" value="练手.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.zijitest" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.头条2" />
-        <item itemvalue="Application.toutiao2" />
-        <item itemvalue="Application.no3" />
-        <item itemvalue="Application.toutiao1" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +404,7 @@
       <workItem from="1565670839836" duration="2461000" />
       <workItem from="1565703451736" duration="196000" />
       <workItem from="1565764091274" duration="6808000" />
-      <workItem from="1566178180405" duration="11254000" />
+      <workItem from="1566178180405" duration="16159000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -666,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566268026344</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Default Changelist">
+      <created>1566268170356</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1566268170356</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -681,7 +645,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107251000" />
+    <option name="totallyTimeSpent" value="112156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,7 +660,7 @@
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49460918" visible="true" weight="0.22669874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49460918" visible="true" weight="0.22669874" />
       <window_info id="Structure" order="1" sideWeight="0.5047106" side_tool="true" weight="0.26289397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -712,11 +676,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49964514" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49964514" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897383" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003549" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.26774594" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.26650062" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.37858033" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -831,15 +795,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/笔试/NO拼多多3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/笔试/toutiao.java" />
-    <entry file="file://$PROJECT_DIR$/src/笔试/tou2.java" />
     <entry file="file://$PROJECT_DIR$/src/图/No207课程表.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -1049,13 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LRU/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1380">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/练手/wu1631.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1077,61 +1025,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/阻塞队列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/练手/isheight.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/生产者消费者/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4260">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/平衡树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/leverreverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1146,62 +1046,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Mirror镜像.java">
+    <entry file="file://$PROJECT_DIR$/src/LRU/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="270">
+          <caret line="126" column="29" lean-forward="true" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder中序.java">
+    <entry file="file://$PROJECT_DIR$/src/练手/lrutest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T102level层次.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/T94inorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/leverreverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T144pre前序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T145post后序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest最小.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/Tree2LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/T572isSubtree子树.java">
+    <entry file="file://$PROJECT_DIR$/src/Tree/Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T102level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T144pre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T145poscct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T572isSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/T230kthSmallest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Tree2LinkedList树到链表.java">
+    <entry file="file://$PROJECT_DIR$/src/练手/zijitest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/minStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerproduct/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerproduct/blockqueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerproduct/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerproduct/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/consumerproduct/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

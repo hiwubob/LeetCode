@@ -1,10 +1,12 @@
-package 生产者消费者;
+package consumerproduct;
 
-import javax.swing.*;
+
 
 public class Consumer implements Runnable {
     private Storage storage;
-    public Consumer(Storage storage){};
+    public Consumer(Storage storage){
+        this.storage=storage;
+    }
 
     public Consumer(Storage storage, String string) {
         this.storage = storage;

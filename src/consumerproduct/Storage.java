@@ -1,4 +1,4 @@
-package 生产者消费者;
+package consumerproduct;
 
 import java.util.LinkedList;
 import java.util.concurrent.LinkedBlockingQueue;

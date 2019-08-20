@@ -1,6 +1,6 @@
 package Tree;
 
-public class T572isSubtree×ÓÊ÷ {
+public class T572isSubtree {
 	public boolean isSubtree(TreeNode s, TreeNode t) {
 		if (s == null || t == null) {
 			return s == null && t == null;

@@ -1,4 +1,6 @@
-package 生产者消费者;
+package consumerproduct;
+
+
 
 public class Main {
     public static void main(String[] args) {

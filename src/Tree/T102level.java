@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class T102level层次 {
+public class T102level {
 /*	采用队列，先进先出，每层在遍历的时候，判断下其左右结点是否为null，不断叠加到queue中
 	弄一个levelList装每一层的元素，每一层结束后，装到resList，返回resList*/
 	public List<List<Integer>> levelOrder(TreeNode root){

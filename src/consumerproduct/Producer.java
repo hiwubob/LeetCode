@@ -1,11 +1,13 @@
-package 生产者消费者;
+package consumerproduct;
 
-import JIANZHIOffer.TreeNode;
+
 
 public class Producer implements Runnable {
     private Storage storage;
 
-    public Producer(Storage storage){};
+    public Producer(Storage storage){
+        this.storage=storage;
+    };
 
 
     public void run() {

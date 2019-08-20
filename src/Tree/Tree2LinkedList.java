@@ -1,6 +1,6 @@
 package Tree;
 
-public class Tree2LinkedListÊ÷µ½Á´±í {
+public class Tree2LinkedList {
     private TreeNode head=null;
     private TreeNode pre=null;
 
