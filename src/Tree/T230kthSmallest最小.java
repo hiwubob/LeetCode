@@ -1,6 +1,6 @@
 package Tree;
 
-public class T230kthSmallest {
+public class T230kthSmallest×îÐ¡ {
 	int count = 0;
 	int value = 0;
 

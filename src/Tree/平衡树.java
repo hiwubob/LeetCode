@@ -1,6 +1,6 @@
 package Tree;
 
-public class balance {
+public class Æ½ºâÊ÷ {
     private boolean isBlance=false;
 
     public boolean balance(TreeNode root) {

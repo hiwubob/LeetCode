@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class T144pre{
+public class T144pre前序{
 //非递归
 	public List<Integer> preOrderTraversal(TreeNode root){
 		List<Integer> resList=new ArrayList<>();
