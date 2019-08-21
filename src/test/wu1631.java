@@ -1,4 +1,4 @@
-package Á·ÊÖ;
+package test;
 
 import java.util.Scanner;
 

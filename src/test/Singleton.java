@@ -1,4 +1,4 @@
-package 练手;
+package test;
 
 public class Singleton {
     private Singleton(){};

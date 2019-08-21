@@ -1,7 +1,4 @@
-package 练手;
-
-import com.sun.scenario.effect.impl.prism.PrImage;
-import org.omg.CORBA.OBJ_ADAPTER;
+package test;
 
 import java.util.HashMap;
 
