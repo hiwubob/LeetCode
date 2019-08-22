@@ -1,6 +1,7 @@
 package ListNode;
 
 public class T92reversBetween {
+	//翻转链表
 	public ListNode reverseBetween(ListNode head, int m, int n) {
 		// 头插法
 		ListNode dummy = new ListNode(0);

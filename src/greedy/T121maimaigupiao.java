@@ -1,6 +1,7 @@
 package greedy;
 
 public class T121maimaigupiao {
+    //ÂòÂô¹ÉÆ±
     public int maxProfit(int[] prices) {
         int minPrice=Integer.MAX_VALUE;
         int maxProfit=0;

@@ -1,6 +1,7 @@
 package Dp;
 
 public class No72bianjijuli {
+    //±à¼­Â·¾¶
     public int minDistance(String word1, String word2) {
         int n=word1.length();
         int m=word2.length();

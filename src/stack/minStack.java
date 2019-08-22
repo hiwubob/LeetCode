@@ -3,6 +3,7 @@ package stack;
 import java.util.Stack;
 
 public class minStack {
+    //最小栈
     private Stack<Integer> s1=new Stack<>();
     private Stack<Integer> s2=new Stack<>();
 

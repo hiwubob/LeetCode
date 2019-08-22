@@ -1,6 +1,7 @@
 package Dp;
 
 public class No115butongdezixulie {
+    //不同的子序列
 //    https://blog.pwrliang.com/2019/02/25/115-%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97/
     public int numDistinct(String s, String t) {
         if (s == null || t == null) {

@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 public class No279wanquanpingfangshu {
+//    完全平方数
     public int numSquares(int n) {
         int[] dp = new int[n + 1];
         dp[0] = 0;

@@ -1,6 +1,8 @@
 package Kproblem;
 
 public class topkdump {
+    //前k个最大值
+    //堆排序
     public static void main(String[] args) {
         int[] m={0,7,9,10,1,2,3,4,5,6};
         int k=6;

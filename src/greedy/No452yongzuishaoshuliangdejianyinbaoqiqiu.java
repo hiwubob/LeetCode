@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 public class No452yongzuishaoshuliangdejianyinbaoqiqiu {
+    //用最少数量的间引爆气球
     public int findMinArrowShots(int[][] points) {
         if (points.length == 0) {
             return 0;

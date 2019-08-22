@@ -1,6 +1,7 @@
 package ListNode;
 
 public class T328oddEvenList {
+	//奇偶链表
 	public ListNode oddEvenList(ListNode head) {
 		if (head == null || head.next == null) {
 			return head;

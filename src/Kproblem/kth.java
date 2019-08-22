@@ -1,7 +1,7 @@
 package Kproblem;
 
 public class kth {
-    //最大值
+    //k个最大值
     public int findKthLargest(int[] nums, int k) {
         if(nums==null || nums.length==0 || k>nums.length) return -1;
         int n = nums.length-k;

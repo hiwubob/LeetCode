@@ -7,6 +7,7 @@ import java.util.Stack;
 若当前元素 < 栈顶元素：入栈
 若当前元素 > 栈顶元素：弹出栈顶元素，记录两者下标差值即为所求天数**/
 public class T739dailytemperatures {
+//	每日气温
 	public int[] dailyTemperatures(int[] T) {
 		int n = T.length;
 		int[] resArr = new int[n];

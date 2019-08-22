@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class T496nextGreaterElement {
+//	下一个最大元素
 	public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 		int[] resArr = new int[nums1.length];
 		Stack<Integer> stack = new Stack<>();

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Dp/No115butongdezixulie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Dp/No121gupiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Dp/No279wanquanpingfangshu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Dp/No63butonglujng2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Dp/No72bianjijuli.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Kproblem/No347qiankgegaopinyuansu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Kproblem/No692qianKgegaopinci.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ListNode/T19removeNthFromEnd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ListNode/T2addTwoNumbers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Observer/JingDongObserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Observer/ProductList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Observer/TaoBaoObserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Observer/Test.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/Sort/bubbleSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/greedy/No122maimaigupiao2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/greedy/No665feidijianshulie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/greedy/T121maimaigupiao.java" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

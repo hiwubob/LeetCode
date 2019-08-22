@@ -1,6 +1,7 @@
 package greedy;
 
 public class No53zuidazixuhe {
+    //最大子序列
     public int maxSubArray(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

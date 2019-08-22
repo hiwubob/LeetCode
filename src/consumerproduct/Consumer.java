@@ -3,6 +3,7 @@ package consumerproduct;
 
 
 public class Consumer implements Runnable {
+    //消费者
     private Storage storage;
     public Consumer(Storage storage){
         this.storage=storage;

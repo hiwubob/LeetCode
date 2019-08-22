@@ -3,6 +3,7 @@ package consumerproduct;
 
 
 public class Producer implements Runnable {
+    //生产者
     private Storage storage;
 
     public Producer(Storage storage){

@@ -1,6 +1,7 @@
 package greedy;
 
 public class No122maimaigupiao2 {
+    //ÂòÂô¹ÉÆ±
     public int maxProfitII(int[] prices) {
         int maxProfit=0;
         for (int i = 1; i < prices.length; i++) {

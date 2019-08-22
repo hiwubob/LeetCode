@@ -1,6 +1,7 @@
 package Dp;
 
 public class No122gupiao {
+//    股票
     public int maxProfit(int[] prices) {
         int maxprofit=0;
         for (int i = 1; i < prices.length; i++) {

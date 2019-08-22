@@ -2,6 +2,7 @@ package greedy;
 
 public class No605zhonghua {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
+//        种花
         int len=flowerbed.length;
         int count=0;
         for (int i = 0; i < len; i++) {

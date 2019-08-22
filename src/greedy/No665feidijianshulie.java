@@ -1,6 +1,7 @@
 package greedy;
 
 public class No665feidijianshulie {
+    //·Çµİ¼õÊıÁĞ
     public boolean checkPossibility(int[] nums) {
         int count=0;
         for (int i = 1; i < nums.length; i++) {

@@ -1,6 +1,7 @@
 package Dp;
 
 public class T5longestPalindrome {
+    //
     /*    dp[i][j] ：表示是arr[i..j]范围内的字符是否是回文
         解释下动态转移方程： dp[i][j] = s.charAt(i) == s.charAt(j) && (j - i <= 2 || dp[i + 1][j - 1]);
         上面的动态转移方程大致有两种情况：(在char[i] == char[j]的情况下，如果相等，arr[i..j] 这个区间肯定不是回文子串)

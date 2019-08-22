@@ -8,6 +8,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Storage {
+    //仓库
     private final int MAX_SIZE = 10;
     private LinkedList list = new LinkedList();
 
