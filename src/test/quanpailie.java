@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class quanpailie {
+//    字符串全排列
     public ArrayList<String> per(String string) {
         List<String> res = new ArrayList<>();
         if (string.length() == 0) {

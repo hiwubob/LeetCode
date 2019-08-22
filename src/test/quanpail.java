@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class quanpail {
+    //数组全排列
     public List<List<Integer>> per(int[] a) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> list = new ArrayList<>();

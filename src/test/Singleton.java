@@ -1,6 +1,7 @@
 package test;
 
 public class Singleton {
+//    单例模式
     private Singleton(){};
 
     private static volatile Singleton singleton=null;

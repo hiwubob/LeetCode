@@ -416,7 +416,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirtySixplus">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="consumerproduct.Main" />
       <module name="LeetCode" />
@@ -484,8 +484,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThirtySixplus" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.ThirtySixplus" />
         <item itemvalue="Application.Zijitest" />
         <item itemvalue="Application.zijitest" />
         <item itemvalue="Application.Main (1)" />

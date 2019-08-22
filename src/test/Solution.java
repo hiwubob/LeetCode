@@ -3,7 +3,8 @@ package test;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class ziji {
+//    子集
     public List<List<Integer>> subsets(int[] a) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
@@ -22,7 +23,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution s=new Solution();
+        ziji s=new ziji();
         int[] nums = {1, 2, 3};
         List<List<Integer>> list=s.subsets(nums);
         System.out.println(list);
