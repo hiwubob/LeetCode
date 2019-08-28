@@ -26,8 +26,6 @@ public class Beike24 {
 
         int cnt = Math.min(find(nums,sum1), find(nums, sum2));
         System.out.println(Math.abs(n-2*cnt));
-
-
     }
 
     public static int find(int[] nums, int sum){
