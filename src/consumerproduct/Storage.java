@@ -42,7 +42,7 @@ public class Storage {
                 }
             }
             list.remove();
-            System.out.println("消费一个产品");
+            System.out.println("一个产品");
             list.notifyAll();
         }
     }

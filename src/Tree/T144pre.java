@@ -18,7 +18,7 @@ public class T144pre{
 					stack.push(root.right);
 				}
 				if(root.left!=null) {//左！！
-					stack.push(root.right);
+					stack.push(root.left);
 				}
 			}
 		}
