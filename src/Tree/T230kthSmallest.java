@@ -18,7 +18,6 @@ public class T230kthSmallest {
 		count++;
 		if (k == count) {
 			value = node.val;
-			return;
 		}
 		kthSmallestInOrder(node.right, k);
 	}

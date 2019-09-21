@@ -109,9 +109,9 @@ public class Storage {
     }
 
     //信号量
-    final Semaphore notFull = new Semaphore(10);
-    final Semaphore notEmpty = new Semaphore(0);
-    final Semaphore mutex = new Semaphore(1);
+    final Semaphore notFull = new Semaphore(10);//保证了容器空的时候（notfull的信号量<=0), 消费者等待
+    final Semaphore notEmpty = new Semaphore(0);//保证了容器满的时候（notempty的信号量 <= 0），生产者等待
+    final Semaphore mutex = new Semaphore(1);//二进制信号量，表示互斥锁
 
     public void produce4() {
         try {

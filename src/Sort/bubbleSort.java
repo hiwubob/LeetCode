@@ -33,7 +33,6 @@ public class bubbleSort {
 	}
 
 	private void swap(int[] a, int j, int i) {
-
 		a[i] = a[i] + a[j];
 		a[j] = a[i] - a[j];
 		a[i] = a[i] - a[j];
