@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e404258-07b9-4d4d-a1d4-8915dbf55042" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/笔试/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/aiqiyi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/baidu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/didi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/didi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/kedaxunfei2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/quna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/tongcheng1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/tongcheng2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/tongcheng3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiaohongshu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiaohongshu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiaohongshu3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiaomi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiecheng2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/笔试/xiecheng3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/bubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/mergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/T230kthSmallest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/consumerproduct/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="112" column="48" lean-forward="true" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
+            <state relative-caret-position="270">
+              <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -212,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/beike1.java" />
         <option value="$PROJECT_DIR$/src/test/Main.java" />
         <option value="$PROJECT_DIR$/src/test/beike22.java" />
         <option value="$PROJECT_DIR$/src/test/beike2.java" />
@@ -263,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/Sort/mergeSort.java" />
         <option value="$PROJECT_DIR$/src/笔试/didi1.java" />
         <option value="$PROJECT_DIR$/src/笔试/didi2.java" />
+        <option value="$PROJECT_DIR$/src/consumerproduct/Storage.java" />
       </list>
     </option>
   </component>
@@ -476,7 +456,7 @@
       <workItem from="1567925815245" duration="6153000" />
       <workItem from="1567994384362" duration="1930000" />
       <workItem from="1568032056255" duration="7133000" />
-      <workItem from="1568289212298" duration="12414000" />
+      <workItem from="1568289212298" duration="12659000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1558174830170</created>
@@ -744,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567408429406</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Default Changelist">
+      <created>1569049308400</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1569049308400</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -759,7 +746,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232862000" />
+    <option name="totallyTimeSpent" value="233107000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -774,7 +761,7 @@
     <frame x="2552" y="422" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4838275" visible="true" weight="0.17765044" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4838275" weight="0.17765044" />
       <window_info id="Structure" order="1" sideWeight="0.5161725" side_tool="true" weight="0.17765044" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1575,8 +1562,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/consumerproduct/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="112" column="48" lean-forward="true" selection-start-line="112" selection-start-column="48" selection-end-line="112" selection-end-column="48" />
+        <state relative-caret-position="270">
+          <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
         </state>
       </provider>
     </entry>
